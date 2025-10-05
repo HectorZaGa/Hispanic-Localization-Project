@@ -266,7 +266,7 @@
 	"gui.xaero_disconnect_map" : "Desconectar",
 	"gui.xaero_wm_connect_with_auto_msg" : "¿Te gustaría crear la siguiente conexión entre mapas?",
 	"gui.xaero_wm_disconnect_from_auto_msg" : "¿Te gustaría eliminar la siguiente conexión entre mapas?",
-	"gui.xaero_dimension_toggle_button" : "§2%s§r Cambiar dimensión (Mantén shift para invertir)",
+	"gui.xaero_dimension_toggle_button" : "§2%s§r Cambiar dimensión (Mantén Mayús para invertir)",
 	"gui.xaero_toggle_dimension" : "Cambiar dimensión",
 	"gui.xaero_switched_to_dimension" : "Cambiado a §2%s§r",
 	"gui.xaero_switched_to_current_dimension" : "Cambiado a §2%s§r (Actual)",

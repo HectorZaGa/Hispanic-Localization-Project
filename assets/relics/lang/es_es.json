@@ -89,7 +89,7 @@
  "tooltip.relics.elytra_booster.description": "Gana 1EXP por cada 10 segundos de combustible quemado colocado en el almacenamiento interno de esta reliquia.",
  "tooltip.relics.elytra_booster.lore": "El alma de la llama está encerrada de manera segura con un mecanismo desconocido.",
  "tooltip.relics.elytra_booster.ability.boost" : "Impulso",
- "tooltip.relics.elytra_booster.ability.boost.description": "Usando combustible en esta Reliquia, rellena su almacenamiento interno. Manteniendo pulsado [Shift] mientras vuelas con unos élitros te propulsará hacia adelante.",
+ "tooltip.relics.elytra_booster.ability.boost.description": "Usando combustible en esta Reliquia, rellena su almacenamiento interno. Manteniendo pulsado [Mayús] mientras vuelas con unos élitros te propulsará hacia adelante.",
  "tooltip.relics.elytra_booster.ability.boost.stat.capacity": "Capacidad: %1$s unidades.",
  "tooltip.relics.elytra_booster.ability.boost.stat.speed": "Velocidad: %1$s bloques por segundo.",
 
@@ -139,7 +139,7 @@
  "tooltip.relics.ice_breaker.ability.sustainability.description": "Incrementa la distancia de retroceso, remueve el resbalamiento en bloques, e incrementa la velocidad de caida.",
  "tooltip.relics.ice_breaker.ability.sustainability.stat.modifier": "Resistencia al Retroceso: %1$s %%.",
  "tooltip.relics.ice_breaker.ability.impact": "Terremoto",
- "tooltip.relics.ice_breaker.ability.impact.description": "Manteniendo pulsado [Shift] mientras caes crea una onda de choque al aterrizar, que daña y empuja a enemigos. El radio de la onda depende de la distancia vertical que el portador haya recorrido.",
+ "tooltip.relics.ice_breaker.ability.impact.description": "Manteniendo pulsado [Mayús] mientras caes crea una onda de choque al aterrizar, que daña y empuja a enemigos. El radio de la onda depende de la distancia vertical que el portador haya recorrido.",
  "tooltip.relics.ice_breaker.ability.impact.stat.size": "Radio máximo: %1$s bloques.",
  "tooltip.relics.ice_breaker.ability.impact.stat.damage": "Daño Inicial: %1$s puntos.",
 

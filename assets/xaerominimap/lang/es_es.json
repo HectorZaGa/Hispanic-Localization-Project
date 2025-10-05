@@ -65,7 +65,7 @@
 	"gui.xaero_display_coords" : "Mostrar coordenadas",
 	"gui.xaero_disable_enable" : "Deshabilitar/Habilitar",
 	"gui.xaero_disabled" : "deshabilitado",
-	"gui.xaero_minimap_guide" : "Manten Clic izquierdo para arrastrar el mini mapa y cambiarlo de lugar.",
+	"gui.xaero_minimap_guide" : "Manten clic izquierdo para arrastrar el mini mapa y cambiarlo de lugar.",
 	"gui.xaero_change_position" : "Cambiar posicion",
 	"gui.xaero_preset_bottom_left" : "Esquina Superior Izquierda",
 	"gui.xaero_preset_bottom_right" : "Esquina Inferior Derecha",

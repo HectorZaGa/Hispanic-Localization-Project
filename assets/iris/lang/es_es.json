@@ -51,7 +51,7 @@
   "options.iris.back": "Volver",
   "options.iris.reset": "Reiniciar",
   "options.iris.reset.tooltip": "¿Reiniciar TODAS las opciones y aplicar?",
-  "options.iris.reset.tooltip.holdShift": "Mantén SHIFT y haz clic para reiniciar",
+  "options.iris.reset.tooltip.holdShift": "Mantén MAYÚS y haz clic para reiniciar",
   "options.iris.importSettings.tooltip": "Importar configuración desde archivo",
   "options.iris.exportSettings.tooltip": "Exportar configuración a archivo",
   "options.iris.mustDisableFullscreen": "¡Desactiva la pantalla completa primero!",

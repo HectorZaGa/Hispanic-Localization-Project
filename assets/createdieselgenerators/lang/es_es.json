@@ -69,7 +69,7 @@
   "createdieselgenerators.lighter.tooltip.summary": "Un _encendedor_. Llénalo con _combustible líquido_ usando un _surtidor_.",
   "createdieselgenerators.lighter.tooltip.condition1": "Cuando se hace clic derecho.",
   "createdieselgenerators.lighter.tooltip.behaviour1": "_Cierra_ o _abre_ e intenta _encender_.",
-  "createdieselgenerators.lighter.tooltip.condition2": "Cuando se hace clic derecho mientras se mantiene shift.",
+  "createdieselgenerators.lighter.tooltip.condition2": "Cuando se hace clic derecho mientras se mantiene Mayús.",
   "createdieselgenerators.lighter.tooltip.behaviour2": "_Cierra_ o _abre_ sin _encender_.",
   "createdieselgenerators.chemical_sprayer.tooltip.summary": "¡Llénalo con cualquier _fluido_ usando un _surtidor_ para rociar a tus _amigos_ o _enemigos_!",
   "createdieselgenerators.chemical_sprayer.tooltip.condition1": "Cuando se hace clic derecho.",

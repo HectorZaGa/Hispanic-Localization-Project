@@ -24,7 +24,7 @@
   "block.numismatics.creative_vendor": "Vendedor creativo",
   "block.numismatics.creative_vendor.tooltip": "VENDEDOR CREATIVO",
   "block.numismatics.creative_vendor.tooltip.summary": "Versión _creativa_ del vendedor, una vez configurado nunca se llenará ni se quedará sin stock.",
-  "block.numismatics.trusted_block.attempt_break": "Mantén presionada la tecla shift para romper este bloque",
+  "block.numismatics.trusted_block.attempt_break": "Mantén presionada la tecla Mayús para romper este bloque",
   "block.numismatics.vendor": "Vendedor",
   "block.numismatics.vendor.tooltip": "VENDEDOR",
   "block.numismatics.vendor.tooltip.mode": "Modo",

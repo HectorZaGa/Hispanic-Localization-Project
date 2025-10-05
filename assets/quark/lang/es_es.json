@@ -13,7 +13,7 @@
 	"quark.gui.button.filter": "Filtrar",
 	"quark.gui.button.emotes": "Gestos",
 	"quark.gui.button.back": "Volver",
-	"quark.gui.button.shift_lock": "Bloqueo de Mayús.",
+	"quark.gui.button.shift_lock": "Bloqueo de Mayús",
 
 	"quark.gui.enchanting.min": "Mín: %d",
 	"quark.gui.enchanting.influence": "Influencia de vela: +%d%%",
@@ -236,7 +236,7 @@
 	"quark.keybind.camera_mode": "Modo cámara",
 	"quark.keybind.narrator_readout": "Lectura del narrador",
 	"quark.keybind.narrator_full_readout": "Lectura completa del narrador",
-	"quark.keybind.shift_lock": "Bloqueo de Mayus.",
+	"quark.keybind.shift_lock": "Bloqueo de Mayús",
 	"quark.keybind.autorun": "Caminar automáticamente",
 
 	"quark.readout.not_ingame": "Fuera del juego",
@@ -321,8 +321,8 @@
 	"quark.emote.exorcist": "Exorcista",
 	"quark.emote.jet": "Jet",
 
-	"quark.misc.shulker_box_shift": "Mantén pulsado Mayús. para ver los contenidos",
-	"quark.misc.map_shift": "Mantén pulsado Mayús. para ver el mapa",
+	"quark.misc.shulker_box_shift": "Mantén pulsado Mayús para ver los contenidos",
+	"quark.misc.map_shift": "Mantén pulsado Mayús para ver el mapa",
 	"quark.misc.rotation_lock": "Has activado el bloqueo de rotación. A partir de ahora, cualquier bloque que coloques estará orientado en la dirección a la que estabas mirando. Para detenerlo o reiniciarlo, pulsa [%s]. Este mensaje no volverá a aparecer.",
 	"quark.misc.saturation0": "Comida llenadora",
 	"quark.misc.saturation1": "Comida sustanciosa",

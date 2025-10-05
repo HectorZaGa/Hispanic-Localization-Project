@@ -11,7 +11,7 @@
 	"mmorpg.chat.spell_is_on_cd": "La habilidad todavía está en enfriamiento.",
 	"mmorpg.chat.no_charges": "Te faltan cargas.",
 	"mmorpg.chat.no_mana": "No tienes suficientes recursos para lanzar.",
-	"mmorpg.chat.not_mns_weapon": "Necesitas un arma de mine and slash (Imbuida con estadísticas) para lanzar habilidades.",
+	"mmorpg.chat.not_mns_weapon": "Necesitas un arma de Mine & Slash (Imbuida con estadísticas) para lanzar habilidades.",
 	"mmorpg.chat.weapon_req_not_met": "No se cumplen los requisitos del arma.",
 	"mmorpg.chat.wrong_casting_weapon": "Tipo de arma incorrecto.",
 	"mmorpg.chat.no_duplicate_aura": "No puedes equipar gemas de aumento duplicadas.",
@@ -29,7 +29,7 @@
 	"mmorpg.word.title_feature_cast_fail": "Mensajes de fallo al lanzar habilidad",
 	"mmorpg.word.cast_fail_msgs": "Mostrará mensajes útiles cuando falles al lanzar una habilidad.\n¡Particularmente útil para jugadores nuevos!\nlos jugadores por debajo del nivel 15 no pueden desactivar esta opción.",
 	"mmorpg.one_of_a_kind.passive_spell": "Habilidad pasiva",
-	"mmorpg.word.everyone_is_ally": "Por defecto, tus habilidades solo afectan a los miembros de tu equipo de mine and slash y a ti mismo.\n\nCon esto activado, tus curaciones, mejoras, etc., afectarán incluso a jugadores que no estén en tu equipo.",
+	"mmorpg.word.everyone_is_ally": "Por defecto, tus habilidades solo afectan a los miembros de tu equipo de Mine & Slash y a ti mismo.\n\nCon esto activado, tus curaciones, mejoras, etc., afectarán incluso a jugadores que no estén en tu equipo.",
 	"mmorpg.word.hotbar": "Habilidades",
 	"mmorpg.word.station_start_crafting": "Empezar (Continuo)",
 	"mmorpg.word.station_stop_crafting": "Parar",
@@ -37,7 +37,7 @@
 	"library_of_exile.item_requirement.is_map": "Debe ser un objeto de mapa de mazmorra",
 	"library_of_exile.item_requirement.map_has_higher_rar": "La rareza del mapa debe ser inferior a mítica",
 	
-	"mmorpg.profession.husbandry": "Caza de recompensas",
+	"mmorpg.profession.husbandry": "Cazarrecompensas",
 	"mmorpg.profession.desc.husbandry": "La caza de recompensas te permite aceptar tareas de los tablones de recompensas a cambio de recompensas, incluyendo carnes de la profesión de cocina.",
 	
 	"mmorpg.stat_layer.armor_mitigation": "Mitigación de armadura",
@@ -1908,7 +1908,7 @@
 	
 	"mmorpg.stat.learn_prayer": "Nivel para plegaria",
 	"mmorpg.spell.prayer": "Plegaria",
-	"spell.desc.prayer": "Aprovecha el poder de la divinidad, aplicando el aura de plegaria sobre ti. Mientras está activa, los aliados cercanos ganan el efecto de plegaria, que proporciona salud y escudo mágico restaurados por segundo.\n\n§c¡Solo puedes tener un aura activa a la vez! también puedes ver el efecto de plegaria en la biblioteca de mine and slash, disponible a través del hub.§7",
+	"spell.desc.prayer": "Aprovecha el poder de la divinidad, aplicando el aura de plegaria sobre ti. Mientras está activa, los aliados cercanos ganan el efecto de plegaria, que proporciona salud y escudo mágico restaurados por segundo.\n\n§c¡Solo puedes tener un aura activa a la vez! también puedes ver el efecto de plegaria en la biblioteca de Mine & Slash, disponible a través del hub.§7",
 	
 	"mmorpg.stat.learn_blessed_aim": "Nivel para puntería bendita",
 	"mmorpg.spell.blessed_aim": "Puntería bendita",
@@ -2280,7 +2280,7 @@
 	
 	"spell.desc.mage_circle": "Invoca un círculo mágico. Estar de pie en él aumenta tu daño de habilidad y crítico.",
 	
-	"spell.desc.undying_will": "Entra en un estado de ira, aumentando el daño recibido y haciendo que las muertes otorguen una acumulación de berserk. Cada acumulación de berserk aumenta tu velocidad de movimiento y velocidad de ataque.\n\n§cPuedes ver los efectos de berserk en la biblioteca de mine and slash, disponible a través del hub.§7",
+	"spell.desc.undying_will": "Entra en un estado de ira, aumentando el daño recibido y haciendo que las muertes otorguen una acumulación de berserk. Cada acumulación de berserk aumenta tu velocidad de movimiento y velocidad de ataque.\n\n§cPuedes ver los efectos de berserk en la biblioteca de Mine & Slash, disponible a través del hub.§7",
 	"spell.desc.quake": "Golpea a los enemigos frente a ti, infligiendo [calc:quake] de daño §6☀ Físico§7 y enviando 3 explosiones subsiguientes que también infligen daño y §eempujan hacia atrás a los enemigos§7.\n\n§cPostura de luchador§7: Aplica una acumulación de desgarrar al golpear.\n\n§aPostura de defensor§7: Ralentiza a los enemigos.",
 	"spell.desc.gong_strike": "Golpea a los enemigos a tu alrededor, infligiendo [calc:gong_strike_plain] de daño \u00a76\u2600 Físico\u00a77 frente a ti.\n\n§cPostura de luchador§7: En su lugar, inflige [calc:gong_strike_fighter] de daño \u00a76\u2600 Físico\u00a77 en un área más grande frente a ti.\n\n§aPostura de defensor§7: En su lugar, inflige [calc:gong_strike] de daño \u00a76\u2600 Físico\u00a77 y aplica brevemente aturdimiento a los enemigos.",
 	"spell.desc.pull": "Atrae a los enemigos frente a ti, infligiendo [calc:pull] de daño \u00a76\u2600 Físico\u00a77.\n\n§cPostura de luchador§7: Aplica una acumulación de desgarrar a los enemigos atraídos.\n\n§aPostura de defensor§7: Aturde y provoca a los enemigos atraídos.",

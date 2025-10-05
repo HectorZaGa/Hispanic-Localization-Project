@@ -5,7 +5,7 @@
   "entity.mutantsbuff.shockwaves": "Onda de choque",
   "entity.mutantsbuff.stable_explosion": "Explosión",
   "gamerule.mutantEndermanRegenerate": "Regeneraciónendermanmutante",
-  "key.mutantsbuff.shift": "Shift",
+  "key.mutantsbuff.shift": "Mayús",
   "gamerule.mutantEndermanRegenerate.description": "Si es falso, el enderman mutante no regenerará ps",
   "enchantment.mutantsbuff.smasher": "Aplastador",
   "item.mutantsbuff.mutant_charged_creeper_spawn_egg": "Generar creeper mutante cargado",
@@ -19,5 +19,5 @@
   "item.mutantsbuff.upgraded_hulk_hammer": "Martillo de explosión de llama",
   "effect.mutantsbuff.regeneration": "Regeneración",
   "entity.mutantsbuff.shockwave": "Onda de choque",
-  "key.mutantsbuff.shift_is_placed": "Shift está colocado"
+  "key.mutantsbuff.shift_is_placed": "Mayús está colocado"
 }

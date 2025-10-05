@@ -158,7 +158,7 @@
   "tooltip.tacz.attachment.ignite.entity": "+ Prender Entidad",
   "tooltip.tacz.attachment.ignite.block": "+ Prender Bloque",
   "tooltip.tacz.attachment.explosion": "+ Explosión",
-  "tooltip.tacz.attachment.yaw.shift": "Pulsa [Shift] para ver armas compatibles",
+  "tooltip.tacz.attachment.yaw.shift": "Pulsa [Mayús] para ver armas compatibles",
   "tooltip.tacz.attachment.yaw.support": "Armas compatibles:",
   "tooltip.tacz.page.previous": "Anterior",
   "tooltip.tacz.page.next": "Siguiente",

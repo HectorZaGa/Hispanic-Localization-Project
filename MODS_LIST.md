@@ -20,6 +20,7 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **Blue Skies** | [`blue_skies`](./assets/blue_skies) | ✅ |
 | **Blueprint** | [`blueprint`](./assets/blueprint) | ✅ |
 | **Born in Chaos** | [`born_in_chaos_v1`](./assets/born_in_chaos_v1) | ✅ |
+| **Botania** | [`botania`](./assets/botania) | 🔄 |
 | **Bountiful** | [`bountiful`](./assets/bountiful) | ✅ |
 | **Brewin' and Chewin'** | [`brewinandchewin`](./assets/brewinandchewin) | ✅ |
 | **Cataclysm** | [`cataclysm`](./assets/cataclysm) | ✅ |
@@ -33,6 +34,7 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **Cobblemon** | [`cobblemon`](./assets/cobblemon) | ✅ |
 | **Cobblepedia** | [`cobblepedia`](./assets/cobblepedia) | ✅ |
 | **Combat Roll** | [`combatroll`](./assets/combatroll) | ✅ |
+| **Comforts** | [`comforts`](./assets/comforts) | ✅ |
 | **Copycats+** | [`copycats`](./assets/copycats) | ✅ |
 | **Corpse** | [`corpse`](./assets/corpse) | ✅ |
 | **Cozy Home** | [`cozy_home`](./assets/cozy_home) | ✅ |
@@ -98,7 +100,7 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **Legendary Survival Overhaul** | [`legendarysurvivaloverhaul`](./assets/legendarysurvivaloverhaul) | ✅ |
 | **Lightman's Currency** | [`lightmanscurrency`](./assets/lightmanscurrency) | ✅ |
 | **Lootr** | [`lootr`](./assets/lootr) | ✅ |
-| **Mine and Slash** | [`mmorpg`](./assets/mmorpg) | ✅ |
+| **Mine and Slash** | [`mmorpg`](./assets/mmorpg) | 🔄 |
 | **Mine and Slash (CTE2)** | [`mmorpg_cte`](./assets/mmorpg_cte) | ✅ |
 | **Minecraft** | [`minecraft`](./assets/minecraft) | ✅ |
 | **Miner's Delight** | [`miners_delight`](./assets/miners_delight) | ✅ |
@@ -111,6 +113,7 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **Nether's Delight** | [`nethersdelight`](./assets/nethersdelight) | ✅ |
 | **Numismatics** | [`numismatics`](./assets/numismatics) | ✅ |
 | **Oculus** | [`iris`](./assets/iris) | ✅ |
+| **Oh The Biomes We've Gone** | [`biomeswevegone`](./assets/biomeswevegone) | ✅ |
 | **OpenBlocks Trophies** | [`obtrophies`](./assets/obtrophies) | ✅ |
 | **Parcool** | [`parcool`](./assets/parcool) | ✅ |
 | **Player Revive** | [`playerrevive`](./assets/playerrevive) | ✅ |
@@ -129,6 +132,7 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **ROE Weapons** | [`roe_weapons`](./assets/roe_weapons) | ✅ |
 | **Sawmill** | [`sawmill`](./assets/sawmill) | ✅ |
 | **Scannable** | [`scannable`](./assets/scannable) | ✅ |
+| **Scholar** | [`scholar`](./assets/scholar) | ✅ |
 | **Serene Seasons** | [`sereneseasons`](./assets/sereneseasons) | ✅ |
 | **Simple Backups** | [`simplebackups`](./assets/simplebackups) | ✅ |
 | **Simply Swords** | [`simplyswords`](./assets/simplyswords) | ✅ |
@@ -169,7 +173,7 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 
 ---
 
-**Total: 162 translated mods**
+**Total: 166 translated mods**
 
 ## 📋 Translation Status
 
@@ -178,13 +182,6 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 - ❌ **Pending**: Mods not yet translated
 
 *Individual mod status may vary. Translations are continuously updated.*
-
-## 🔧 Technical Information
-
-- **Minecraft Version**: 1.20+
-- **Language Code**: es_ES (Spanish - Spain)
-- **Format**: Standard Minecraft resourcepack structure
-- **Compatibility**: Works with mod versions updated as of 2025
 
 ---
 

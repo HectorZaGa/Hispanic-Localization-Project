@@ -37,7 +37,7 @@
   "gui.waystones.waystone_selection.previous_page": "Anterior",
   "gui.waystones.waystone_selection.current_location": "Ubicación actual:",
   "gui.waystones.waystone_selection.unnamed_waystone": "<sin nombre>",
-  "gui.waystones.waystone_selection.hold_shift_to_delete": "Mantén presionado shift y haz clic para eliminar",
+  "gui.waystones.waystone_selection.hold_shift_to_delete": "Mantén presionado Mayús y haz clic para eliminar",
   "gui.waystones.waystone_selection.click_to_delete": "Haz clic para eliminar",
   "gui.waystones.waystone_selection.deleting_global_for_all": "Esto eliminará la waystone global para todos.",
   "gui.waystones.waystone_selection.no_waystones_activated": "Aún no has activado ninguna waystone.",

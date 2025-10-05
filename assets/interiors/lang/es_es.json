@@ -6,7 +6,7 @@
     "block.interiors.brown_chair": "Asiento marrón",
     "block.interiors.brown_floor_chair": "Asiento de piso marrón",
     "block.interiors.chair.tooltip": "Asiento",
-    "block.interiors.chair.tooltip.behaviour1": "Sienta al jugador en el _asiento_. Presiona Mayús. para levantarte del _asiento_.",
+    "block.interiors.chair.tooltip.behaviour1": "Sienta al jugador en el _asiento_. Presiona Mayús para levantarte del _asiento_.",
     "block.interiors.chair.tooltip.behaviour2": "Activa/desactiva los apoyabrazos individuales del _asiento_.",
     "block.interiors.chair.tooltip.behaviour3": "Activa/desactiva el tamaño del respaldo del _asiento_.",
     "block.interiors.chair.tooltip.condition1": "Al hacer clic derecho",

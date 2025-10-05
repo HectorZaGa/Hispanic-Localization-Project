@@ -1,4 +1,4 @@
-# Translatepack
+# Hispanic Localization Project
 
 This resourcepack provides **Spanish (es_ES) translations** for various Minecraft mods.  
 It is meant to improve accessibility and gameplay for Spanish-speaking players by localizing mod content.
@@ -13,12 +13,6 @@ It is meant to improve accessibility and gameplay for Spanish-speaking players b
 This resourcepack includes Spanish translations for **over 130 different mods**.
 
 📋 **[View complete mods list →](./MODS_LIST.md)**
-
-## 🔧 Technical Information
-- **Minecraft Version**: 1.20+
-- **Language Code**: es_ES (Spanish - Spain)
-- **Format**: Standard Minecraft resourcepack structure
-- **Compatibility**: Works with mod versions as of 2025
 
 ## 🤝 Contributing
 Contributions are welcome!  

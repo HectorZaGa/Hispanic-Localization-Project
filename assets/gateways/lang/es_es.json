@@ -1,18 +1,18 @@
 {
 	"entity.gateways.gateway" : "Portal a la Eternidad",
-	"item.gateways.gate_pearl": "Perla del portal",
-	"gateways.gate_pearl": "Perla del portal - %s",
+	"item.gateways.gate_pearl": "Perla de portal",
+	"gateways.gate_pearl": "Perla de portal - %s",
 	"itemGroup.gateways": "Gateways to Eternity",
 
-	"info.gateways.gate_pearl": "Una Perla del portal te permite invocar un Portal usándola en un bloque.\n\nSolo se puede usar cuando el nuevo Portal no esté demasiado cerca de otro Portal, según el espaciado actual.\n",
-	"info.gateways.gate_pearl.2": "Un Portal abierto fallará en una explosión de rayos si no puede generar un enemigo, si un enemigo activo se aleja demasiado o si el temporizador de la oleada se agota.\n\nLas recompensas aparecerán en el Portal a medida que se obtengan.",
+	"info.gateways.gate_pearl": "Una perla de portal te permite invocar un Portal usándola en un bloque.\n\nSolo se puede usar cuando el nuevo Portal no esté demasiado cerca de otro Portal, según el espaciado actual.\n",
+	"info.gateways.gate_pearl.2": "Un portal abierto fallará en una explosión de rayos si no puede generar un enemigo, si un enemigo activo se aleja demasiado o si el temporizador de la oleada se agota.\n\nLas recompensas aparecerán en el Portal a medida que se obtengan.",
 
 	"tooltip.gateways.with_count": "%s %s",
 	"tooltip.gateways.dot_with_count": "• %s %s",
 	"tooltip.gateways.dot": "• %s",
 
 	"tooltip.gateways.scroll": "[Desplazar]",
-	"tooltip.gateways.shift": "[Mayús.]",
+	"tooltip.gateways.shift": "[Mayús]",
 	"tooltip.gateways.ctrl": "[Ctrl]",
 	"tooltip.gateways.alt": "[Alt]",
 	"tooltip.gateways.true": "Activado",
