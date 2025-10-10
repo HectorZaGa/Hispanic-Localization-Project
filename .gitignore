@@ -416,3 +416,26 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Ignore files or directories whose name contains the substring "tmp"
+# - Simple substring (case-sensitive on Git's pattern matching):
+#   This ignores any file/dir with 'tmp' in its name, e.g. build/tmpfile or mytmpdir
+*tmp*
+# - Case-insensitive equivalent (matches TMP, Tmp, etc.):
+*[Tt][Mm][Pp]*
+
+# NOTE: These patterns match anywhere in the filename. If you only want to
+# ignore names that start or end with tmp, use '^tmp' like patterns (not supported
+# directly in .gitignore) or more specific patterns like 'tmp/' for a folder
+# named exactly 'tmp' or 'tmp*' for files starting with 'tmp'.
+
+# Ignore files or directories whose name contains the substring "split"
+# Examples: mysplitfile.txt, level_split, world-split
+*split*
+
+# Ignore files that contain 'part' (e.g. chunked files like part1, file_part2)
+# If you only want to ignore files that start with 'part' use 'part*'
+*part*
+
+# Ignore files/dirs that contain 'old' (old backups, old_data, filename_old.txt)
+*old*

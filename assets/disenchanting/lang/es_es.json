@@ -1,0 +1,16 @@
+{
+  "_comment": "Blocks",
+
+  "block.disenchanting.disenchanter": "Desencantador",
+  "block.disenchanting.disenchanter.tooltip": "Desencanta tus objetos y transfiérelos a libros.",
+
+  "_comment": "Creative Tabs",
+  "itemGroup.Disenchanting": "Desencantamiento",
+
+  "_comment": "Names",
+
+  "gui.disenchanting.disenchanter.cost": "Costo",
+
+  "_comment": "UI",
+  "tabs.disenchanting.tab": "Desencantamiento"
+}

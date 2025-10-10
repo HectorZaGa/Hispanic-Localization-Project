@@ -2928,7 +2928,7 @@
 "mmorpg.profession.desc.gear_crafting": "Fabricación de equipamiento es una profesión de crafteo que convierte materiales de las profesiones de recolección en nuevas piezas de equipamiento.",
 "mmorpg.profession.desc.husbandry": "Cría de animales te da la posibilidad de obtener materiales personalizados adicionales al criar animales.",
 "mmorpg.profession.desc.mining": "Minería te da la posibilidad de obtener materiales personalizados adicionales al extraer minerales. Puedes ver que materiales dan experiencia adicional en Mine & Slash hub > library screen.",
-"mmorpg.profession.desc.salvaging": "Desguazador es el proceso de convertir botín inútil en materiales útiles en la estación de desguazado. Solo puedes desguazar equipamiento con almas de Mine & Slash y otros items de rareza de Mine & Slash.",
+"mmorpg.profession.desc.salvaging": "Desguazador es el proceso de convertir botín inútil en materiales útiles en la estación de desguace. Solo puedes desguazar equipamiento con almas de Mine & Slash y otros items de rareza de Mine & Slash.",
 
 "_comment": " [category]: Statuseffects - descriptions",
 

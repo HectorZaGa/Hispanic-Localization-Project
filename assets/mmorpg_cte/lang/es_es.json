@@ -855,8 +855,8 @@
 	"item.mmorpg.rare_mats.fishing.lesser": "Pez globo menor",
 	"item.mmorpg.rare_mats.fishing.medium": "Pez globo mediano",
 	
-	"block.mmorpg.station.gear_crafting": "Estación de crafteo de equipo",
-	"block.mmorpg.station.enchanting": "Estación de infusión",
+	"block.mmorpg.station.gear_crafting": "Estación de herrería",
+	"block.mmorpg.station.enchanting": "Estación de inscripción",
 	"block.mmorpg.station.cooking": "Estación de cocina",
 	"block.mmorpg.station.alchemy": "Estación de alquimia",
 	"block.mmorpg.station.salvaging": "Estación de desguace",

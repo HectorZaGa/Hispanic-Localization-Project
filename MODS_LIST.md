@@ -5,10 +5,12 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | Mod Name | Folder | Status |
 |----------|--------|---------|
 | **Ad Astra** | [`ad_astra`](./assets/ad_astra) | ✅ |
+| **Advanced Team** | [`teams`](./assets/teams) | ✅ |
 | **Alex's Caves** | [`alexscaves`](./assets/alexscaves) | ✅ |
 | **Alex's Caves Torpedoes** | [`alexscaves_torpedoes`](./assets/alexscaves_torpedoes) | ✅ |
 | **Amendments** | [`amendments`](./assets/amendments) | ✅ |
 | **Another Furniture** | [`another_furniture`](./assets/another_furniture) | ✅ |
+| **Aquamirae** | [`aquamirae`](./assets/aquamirae) | ✅ |
 | **Ars Creo** | [`ars_creo`](./assets/ars_creo) | ✅ |
 | **Ars Elemental** | [`ars_elemental`](./assets/ars_elemental) | ✅ |
 | **Ars Nouveau** | [`ars_nouveau`](./assets/ars_nouveau) | ✅ |
@@ -17,22 +19,23 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **Autumnity** | [`autumnity`](./assets/autumnity) | ✅ |
 | **Better Archeology** | [`betterarcheology`](./assets/betterarcheology) | ✅ |
 | **Better Combat** | [`bettercombat`](./assets/bettercombat) | ✅ |
-| **Blue Skies** | [`blue_skies`](./assets/blue_skies) | ✅ |
+| **Blue Skies** | [`blue_skies`](./assets/blue_skies) | 🔄 |
 | **Blueprint** | [`blueprint`](./assets/blueprint) | ✅ |
 | **Born in Chaos** | [`born_in_chaos_v1`](./assets/born_in_chaos_v1) | ✅ |
-| **Botania** | [`botania`](./assets/botania) | 🔄 |
+| **Botania** | [`botania`](./assets/botania) | ✅ |
 | **Bountiful** | [`bountiful`](./assets/bountiful) | ✅ |
 | **Brewin' and Chewin'** | [`brewinandchewin`](./assets/brewinandchewin) | ✅ |
 | **Cataclysm** | [`cataclysm`](./assets/cataclysm) | ✅ |
 | **Cataclysm Spellbooks** | [`cataclysm_spellbooks`](./assets/cataclysm_spellbooks) | ✅ |
 | **Caverns and Chasms** | [`caverns_and_chasms`](./assets/caverns_and_chasms) | ✅ |
 | **Chalk** | [`chalk`](./assets/chalk) | ✅ |
-| **Chipped** | [`chipped`](./assets/chipped) | ✅ |
+| **Chipped** | [`chipped`](./assets/chipped) | ❌ |
 | **Chloride (Embeddium++/Sodium++)** | [`chloride`](./assets/chloride) | ✅ |
+| **Chunk Loaders** | [`chunkloaders`](./assets/chunkloaders) | ✅ |
 | **Clayworks** | [`clayworks`](./assets/clayworks) | ✅ |
 | **Cobbledex** | [`cobbledex`](./assets/cobbledex) | ✅ |
-| **Cobblemon** | [`cobblemon`](./assets/cobblemon) | ✅ |
-| **Cobblepedia** | [`cobblepedia`](./assets/cobblepedia) | ✅ |
+| **Cobblemon** | [`cobblemon`](./assets/cobblemon) | 🔄 |
+| **Cobblepedia** | [`cobblepedia`](./assets/cobblepedia) | 🔄 |
 | **Combat Roll** | [`combatroll`](./assets/combatroll) | ✅ |
 | **Comforts** | [`comforts`](./assets/comforts) | ✅ |
 | **Copycats+** | [`copycats`](./assets/copycats) | ✅ |
@@ -54,9 +57,11 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **Create: Wizardry** | [`create_wizardry`](./assets/create_wizardry) | ✅ |
 | **Decoration Delight** | [`decoration_delight`](./assets/decoration_delight) | ✅ |
 | **Design Decor** | [`design_decor`](./assets/design_decor) | ✅ |
+| **Disenchanting** | [`disenchanting`](./assets/disenchanting) | ✅ |
 | **Dragonseeker** | [`dragonseeker`](./assets/dragonseeker) | ✅ |
 | **Dungeon's Delight** | [`dungeonsdelight`](./assets/dungeonsdelight) | ✅ |
 | **Dye Depot** | [`dye_depot`](./assets/dye_depot) | ✅ |
+| **Easy Magic** | [`easymagic`](./assets/easymagic) | ✅ |
 | **Effortless Building** | [`effortlessbuilding`](./assets/effortlessbuilding) | ✅ |
 | **Embeddium** | [`embeddium`](./assets/embeddium) | ✅ |
 | **Ender's Delight** | [`endersdelight`](./assets/endersdelight) | ✅ |
@@ -65,10 +70,13 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **Equipment Compare** | [`equipmentcompare`](./assets/equipmentcompare) | ✅ |
 | **Essential** | [`essential`](./assets/essential) | ✅ |
 | **Every Compat** | [`everycomp`](./assets/everycomp) | ✅ |
+| **Explorer's Compass** | [`explorerscompass`](./assets/explorerscompass) | ✅ |
 | **Extended Gears** | [`extendedgears`](./assets/extendedgears) | ✅ |
 | **FancyMenu** | [`fancymenu`](./assets/fancymenu) | ✅ |
 | **Farmer's Delight** | [`farmersdelight`](./assets/farmersdelight) | ✅ |
+| **Floralench** | [`floralench`](./assets/floralench) | ✅ |
 | **Flying Stuff** | [`flying_stuff`](./assets/flying_stuff) | ✅ |
+| **Framedblocks** | [`framedblocks`](./assets/framedblocks) | ✅ |
 | **FTB Library** | [`ftblibrary`](./assets/ftblibrary) | ✅ |
 | **FTB PH** | [`ftb_ph`](./assets/ftb_ph) | ✅ |
 | **FTB Quests** | [`ftbquests`](./assets/ftbquests) | ✅ |
@@ -110,6 +118,7 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **Monster Plus** | [`monsterplus`](./assets/monsterplus) | ✅ |
 | **Mutants Buff** | [`mutantsbuff`](./assets/mutantsbuff) | ✅ |
 | **My Nether's Delight** | [`mynethersdelight`](./assets/mynethersdelight) | ✅ |
+| **Nature's Compass** | [`naturescompass`](./assets/naturescompass) | ✅ |
 | **Nether's Delight** | [`nethersdelight`](./assets/nethersdelight) | ✅ |
 | **Numismatics** | [`numismatics`](./assets/numismatics) | ✅ |
 | **Oculus** | [`iris`](./assets/iris) | ✅ |
@@ -150,7 +159,6 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **TaCZ: C** | [`tacz_c`](./assets/tacz_c) | ✅ |
 | **TaCZ: Weapon Blueprints** | [`taczweaponblueprints`](./assets/taczweaponblueprints) | ✅ |
 | **Take a Pillage** | [`takesapillage`](./assets/takesapillage) | ✅ |
-| **Teams** | [`teams`](./assets/teams) | ✅ |
 | **TerraBlender** | [`terrablender`](./assets/terrablender) | ✅ |
 | **The Dawn Era** | [`dawnera`](./assets/dawnera) | ✅ |
 | **The Dawn Era Delight** | [`dawnera_delight`](./assets/dawnera_delight) | ✅ |
@@ -173,7 +181,7 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 
 ---
 
-**Total: 166 translated mods**
+**Total: 174 translated mods**
 
 ## 📋 Translation Status
 
