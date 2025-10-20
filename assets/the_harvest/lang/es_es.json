@@ -1,0 +1,26 @@
+{
+	"block.the_harvest.harvest": "Cosecha",
+	"block.the_harvest.harvest_spawner": "Generador de cosecha",
+	"item.the_harvest.chaotic": "Gema caótica de enredo",
+	"item.the_harvest.harvest": "Cosecha",
+	"item.the_harvest.harvest_map": "\u00A7aMapa de cosecha",
+	"item.the_harvest.lucid": "Gema lúcida de enredo",
+	"item.the_harvest.primal": "Gema primigenia de enredo",
+	"item.the_harvest.relic": "\u00A7aReliquia de mazmorra",
+	"library_of_exile.league.harvest": "The Harvest",
+	"library_of_exile.relic_stat.bonus_harvest_chance": "%1$s de probabilidad de contener 1 cosecha adicional",
+	"library_of_exile.relic_stat.double_harvest_chance": "%1$s de probabilidad de contener 2x cosechas",
+	"library_of_exile.relic_stat.harvest_content": "Tus mapas tienen %1$s más probabilidad de contener contenido de cosecha",
+	"library_of_exile.relic_stat.mobs_spawned": "%1$s más aparición de enemigos dentro de la cosecha",
+	"library_of_exile.relic_type.the_harvest": "Reliquia de cosecha",
+	"the_harvest.words.creative_tab": "The Harvest",
+	"the_harvest.words.harvest_end": "Las enredaderas parecen encogerse, por ahora...",
+	"the_harvest.words.harvest_time_remaining": "%1$s segundos restantes",
+	"the_harvest.words.last_wave": "¡Última oleada EN CAMINO!",
+	"the_harvest.words.map_item_use_info": "Haz clic derecho en el [Bloque de cosecha] con el mapa para iniciarlo.",
+	"the_harvest.words.new_map_given": "The Harvest te regala un mapa. Puedes usar este mapa para activar la cosecha.",
+	"the_harvest.words.relic_map": "\u2605 Reliquia",
+	"the_harvest.words.relic_maps_only": "Esta cosecha solo acepta mapas de reliquia",
+	"the_harvest.words.spawn_rate": "Tasa de aparición de enemigos: %1$s%%"
+
+}

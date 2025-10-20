@@ -1,0 +1,13 @@
+{
+  "subtitles.wyrm_hurt": "Wyrm herido",
+  "item.realmrpg_wyrms.wyrm_fireball": "Bola de fuego de wyrm",
+  "item.realmrpg_wyrms.red_wyrm_spawn_egg": "Generar wyrm rojo",
+  "entity.realmrpg_wyrms.ender_wyrm": "Wyrm del End",
+  "subtitles.wyrm_death": "Wyrm muere",
+  "item.realmrpg_wyrms.ender_wyrm_fireball": "Bola de fuego de wyrm del End",
+  "subtitles.wyrm_ambient": "Wyrm ruge",
+  "entity.realmrpg_wyrms.red_wyrm": "Wyrm rojo",
+  "item_group.realmrpg_wyrms.realm_rpg_wyrms_tab": "Realm RPG: Dragon Wyrms",
+  "item.realmrpg_wyrms.ender_wyrm_spawn_egg": "Generar wyrm del End",
+  "itemGroup.tabrealm_rpg_wyrms_tab": "Realm RPG: Dragon Wyrms"
+}

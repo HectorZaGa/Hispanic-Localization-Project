@@ -34,7 +34,7 @@
   "cobbledex.texts.need.view_evolutions": "evolución",
   "cobbledex.texts.need.view_spawns": "spawn",
   "cobbledex.texts.need.view_drops": "objeto",
-   "cobbledex.texts.not_a_pokemon": "¡Eso no es un Pokémon!",
+  "cobbledex.texts.not_a_pokemon": "¡Eso no es un Pokémon!",
   "cobbledex.texts.discover.selected_form": "Forma: %s",
   "cobbledex.texts.discover.discovered": "Vistos",
   "cobbledex.texts.discover.caught": "Atrapados",

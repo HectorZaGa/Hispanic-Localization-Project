@@ -1,0 +1,10 @@
+{
+  "jei.cobblemon_drops.title": "Objetos soltados por Pokémon",
+  "jei.cobblemon_evoitems.title": "Objetos de evolución de Pokémon",
+  "config.jade.plugin_cobblemonintegrations.pokemon_entity": "Entidad Pokémon",
+  "config.jade.plugin_cobblemonintegrations.healer": "Sanador",
+  "config.jade.plugin_cobblemonintegrations.apricorn": "Apricorn",
+  "config.jade.plugin_cobblemonintegrations.berry_bush": "Arbusto de bayas",
+  "config.jade.plugin_cobblemonintegrations.fossil_analyzer": "Analizador de fósiles",
+  "cobblemonintegrations.ui.interact.teleport": "Teletransporte de Waystones"
+}

@@ -9,6 +9,7 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **Alex's Caves** | [`alexscaves`](./assets/alexscaves) | ✅ |
 | **Alex's Caves Torpedoes** | [`alexscaves_torpedoes`](./assets/alexscaves_torpedoes) | ✅ |
 | **Amendments** | [`amendments`](./assets/amendments) | ✅ |
+| **Ancient Obelisks** | [`ancient_obelisks`](./assets/ancient_obelisks) | ✅ |
 | **Another Furniture** | [`another_furniture`](./assets/another_furniture) | ✅ |
 | **Aquamirae** | [`aquamirae`](./assets/aquamirae) | ✅ |
 | **Ars Creo** | [`ars_creo`](./assets/ars_creo) | ✅ |
@@ -35,6 +36,7 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **Clayworks** | [`clayworks`](./assets/clayworks) | ✅ |
 | **Cobbledex** | [`cobbledex`](./assets/cobbledex) | ✅ |
 | **Cobblemon** | [`cobblemon`](./assets/cobblemon) | 🔄 |
+| **Cobblemon Integrations** | [`cobblemonintegrations`](./assets/cobblemonintegrations) | ✅ |
 | **Cobblepedia** | [`cobblepedia`](./assets/cobblepedia) | 🔄 |
 | **Combat Roll** | [`combatroll`](./assets/combatroll) | ✅ |
 | **Comforts** | [`comforts`](./assets/comforts) | ✅ |
@@ -67,9 +69,13 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **Ender's Delight** | [`endersdelight`](./assets/endersdelight) | ✅ |
 | **Endergetic Expansion** | [`endergetic`](./assets/endergetic) | ✅ |
 | **Enderman Overhaul** | [`endermanoverhaul`](./assets/endermanoverhaul) | ✅ |
+| **Enhanced Celestials** | [`enhancedcelestials`](./assets/enhancedcelestials) | ✅ |
 | **Equipment Compare** | [`equipmentcompare`](./assets/equipmentcompare) | ✅ |
 | **Essential** | [`essential`](./assets/essential) | ✅ |
-| **Every Compat** | [`everycomp`](./assets/everycomp) | ✅ |
+| **Every Compat (Stone Zone)** | [`stonezone`](./assets/stonezone) | ✅ |
+| **Every Compat (Stone Zone) - Stonetypes** | [`stonezone_stones`](./assets/stonezone_stones) | 🔄 |
+| **Every Compat (Wood Good)** | [`everycomp`](./assets/everycomp) | ✅ |
+| **Every Compat (Wood Good) - Woodtypes** | [`everycomp_woods`](./assets/everycomp_woods) | 🔄 |
 | **Explorer's Compass** | [`explorerscompass`](./assets/explorerscompass) | ✅ |
 | **Extended Gears** | [`extendedgears`](./assets/extendedgears) | ✅ |
 | **FancyMenu** | [`fancymenu`](./assets/fancymenu) | ✅ |
@@ -132,9 +138,12 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **Quark** | [`quark`](./assets/quark) | ✅ |
 | **RAC Compat** | [`raccompat`](./assets/raccompat) | ✅ |
 | **Railways** | [`railways`](./assets/railways) | ✅ |
+| **Realm RPG: Seadwellers** | [`seadwellers`](./assets/seadwellers) | ✅ |
+| **Realm RPG: Wyrms** | [`realmrpg_wyrms`](./assets/realmrpg_wyrms) | ✅ |
 | **RealmRPG: Creep** | [`realmrpg_creep`](./assets/realmrpg_creep) | ✅ |
 | **RealmRPG: Demons** | [`realmrpg_demons`](./assets/realmrpg_demons) | ✅ |
 | **RealmRPG: Skeletons** | [`realmrpg_skeletons`](./assets/realmrpg_skeletons) | ✅ |
+| **Refined Storage** | [`refinedstorage`](./assets/refinedstorage) | 🔄 |
 | **Relics** | [`relics`](./assets/relics) | ✅ |
 | **Rings of Ascension** | [`ringsofascension`](./assets/ringsofascension) | ✅ |
 | **ROE SFX** | [`roe_sfx`](./assets/roe_sfx) | ✅ |
@@ -153,8 +162,10 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **Sophisticated Core** | [`sophisticatedcore`](./assets/sophisticatedcore) | ✅ |
 | **Sophisticated Storage** | [`sophisticatedstorage`](./assets/sophisticatedstorage) | ✅ |
 | **Spice of Life Onion** | [`solonion`](./assets/solonion) | ✅ |
+| **Stalwart Dungeons** | [`stalwart_dungeons`](./assets/stalwart_dungeons) | ✅ |
 | **Storage Delight** | [`storagedelight`](./assets/storagedelight) | ✅ |
 | **Supplementaries** | [`supplementaries`](./assets/supplementaries) | ✅ |
+| **Supplementaries Squared** | [`suppsquared`](./assets/suppsquared) | ✅ |
 | **TaCZ** | [`tacz`](./assets/tacz) | ✅ |
 | **TaCZ: C** | [`tacz_c`](./assets/tacz_c) | ✅ |
 | **TaCZ: Weapon Blueprints** | [`taczweaponblueprints`](./assets/taczweaponblueprints) | ✅ |
@@ -163,6 +174,7 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 | **The Dawn Era** | [`dawnera`](./assets/dawnera) | ✅ |
 | **The Dawn Era Delight** | [`dawnera_delight`](./assets/dawnera_delight) | ✅ |
 | **The Factory Must Grow** | [`tfmg`](./assets/tfmg) | ✅ |
+| **The Harvest** | [`the_harvest`](./assets/the_harvest) | ✅ |
 | **The Undergarden** | [`undergarden`](./assets/undergarden) | ✅ |
 | **Tips Mod** | [`tipsmod`](./assets/tipsmod) | ✅ |
 | **Tom's Storage** | [`toms_storage`](./assets/toms_storage) | ✅ |
@@ -181,7 +193,7 @@ This resourcepack provides **Spanish (es_ES) translations** for the following Mi
 
 ---
 
-**Total: 174 translated mods**
+**Total: 186 translated mods**
 
 ## 📋 Translation Status
 
