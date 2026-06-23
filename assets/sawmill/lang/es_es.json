@@ -5,5 +5,6 @@
   "entity.minecraft.villager.sawmill.carpenter": "Carpintero",
   "entity.minecraft.villager.carpenter": "Carpintero",
   "subtitles.sawmill.entity.villager.work_carpenter": "El carpintero trabaja",
-  "subtitles.sawmill.ui.sawmill.take_result": "Se utilizó la sierra"
+  "subtitles.sawmill.ui.sawmill.take_result": "Se utilizó la sierra",
+  "sawmill.category.wood_cutting": "Cortando"
 }
