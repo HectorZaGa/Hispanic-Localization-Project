@@ -36,5 +36,6 @@
   "text.autoconfig.bettercombat.option.client.mineWithWeaponBlacklist.@Tooltip": "Las armas con una ID que coincida con esta expresión regular nunca se usarán para recolectar bloques",
   "text.autoconfig.bettercombat.option.client.isDebugOBBEnabled": "Hitbox de depuración",
   "text.autoconfig.bettercombat.option.client.isDebugOBBEnabled.@Tooltip": "Mostrar la Hitbox del arma cuando se muestran las Hitbox de las entidades",
-  "text.autoconfig.bettercombat.option.client.firstPersonAnimations": "Animaciones del jugador en primera persona\n"
+  "text.autoconfig.bettercombat.option.client.firstPersonAnimations": "Animaciones del jugador en primera persona",
+  "text.autoconfig.bettercombat.option.client.firstPersonAnimations.@Tooltip": "Animaciones de ataque a los jugadores que se mostrarán. Solo se recomienda cambiar si hay mods de cámara personalizados en uso."
 }
