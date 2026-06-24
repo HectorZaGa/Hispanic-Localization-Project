@@ -1,0 +1,54 @@
+{
+  "name": "Libros Nombrados",
+  "icon": "irons_spellbooks:evoker_spell_book",
+  "category": "irons_spellbooks:root",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Libros de hechizos no fabricables",
+      "text": "Armaduras, armas, adornos y, por supuesto, libros de hechizos, todos están dispersos por el mundo, esperando que los explores y los encuentres."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Libros de hechizos únicos",
+      "text": "Los libros de hechizos únicos son gotas raras de ciertos monstruos que vienen con hechizos inscritos, que no se pueden quitar ni editar. No todos los libros de hechizos se pueden fabricar -- después de todo, se llama el arte arcana."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:evoker_spell_book",
+      "text": "Un libro lleno de la magia fundacional de los illagers, el Grimorio de Evocación puede ser obtenido al derrotar a los Evocadores o a su primo más poderoso, los Archevocadores."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blood_staff",
+      "text": "Un antiguo cetro que contiene una serie de hechizos oscuros, solo puede ser adquirido arrebatándoselo a su dueño no muerto."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Libros de hechizos nombrados",
+      "text": "Los libros de hechizos nombrados se pueden encontrar escondidos en muchos rincones del mundo, ofreciendo a menudo bonificaciones a los aventureros afortunados que buscan en los lugares correctos."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:rotten_spell_book",
+      "text": "Lo que alguna vez fue un libro más poderoso ha terminado pudriéndose, dejando solo tres páginas. Aún así, más poderoso que la mayoría de los libros de hechizos del mundo superior. Pueden ser saqueados de lugares igualmente podridos por todo el mundo superior."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:villager_spell_book",
+      "text": "Un libro regular con una pequeña bendición se convierte en un canal adecuado para la magia divina. Construir una reputación con los aldeanos, especialmente liberando a los cautivos del Archevocador, asegurará que uno caiga en tus manos eventualmente."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blaze_spell_book",
+      "text": "Cada Blaze, sin saberlo, viene con uno de estos guardado. El truco está en matarlos y esperar que no se convierta en cenizas."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:druidic_spell_book",
+      "text": "Una fuerte energía mágica aún persiste dentro del Libro de Hechizos Podrido. El libro podría ser bendecido de nuevo si se aplicara un remedio adecuado."
+    }
+  ]
+}

@@ -15,7 +15,6 @@
   "advancements.nether.goblet.title": "Consume the Concoction Chalice",
   "advancements.story.unenchanter.description": "Grind an Enchanted Golden Apple",
   "advancements.story.unenchanter.title": "Why Would You do That!?",
-
   "block.supplementaries.ash": "Ash",
   "block.supplementaries.ash_bricks": "Ash Bricks",
   "block.supplementaries.ash_bricks_slab": "Ash Brick Slab",
@@ -229,22 +228,17 @@
   "block.supplementaries.wicker_fence": "Wicker Fence",
   "block.supplementaries.wild_flax": "Wild Flax",
   "block.supplementaries.wind_vane": "Wind Vane",
-
   "block_type.supplementaries.way_sign": "Sign Post",
-
   "commands.supplementaries.registry.copy_elements_names": "Click to copy all entry names to clipboard",
   "commands.supplementaries.registry.element": "%s : %s",
   "commands.supplementaries.registry.elements_count": "Entries: %s",
   "commands.supplementaries.registry.error.unknown_registry": "Unknown registry '%s'",
   "commands.supplementaries.registry.page_info": "%s <page %s / %s>",
   "commands.supplementaries.registry.registry_key": "%s",
-
   "config.jade.plugin_supplementaries.hat_stand": "Hat Stand",
   "create.display_source.fill_level.fluid_amount": "Fluid Amount",
-
   "create.item_attributes.present_recipient": "Present addressed to: \"%1$s\"",
   "create.item_attributes.present_recipient.inverted": "Present not addressed to: \"%1$s\"",
-
   "death.attack.supplementaries.bamboo_spikes": "%1$s was impaled on a spike",
   "death.attack.supplementaries.bamboo_spikes.player": "%1$s impaled on a spike whilst fighting %2$s",
   "death.attack.supplementaries.cannonball": "%1$s was blasted to bits",
@@ -253,19 +247,16 @@
   "death.attack.supplementaries.slingshot.item": "%1$s was stoned to death by %2$s using %3$s",
   "death.attack.supplementaries.xp_extracting": "%1$s wasn't so experienced after all",
   "death.attack.supplementaries.xp_extracting.player": "%1$s extracted too much while fighting %2$s",
-
   "effect.supplementaries.flammable": "Flammable",
   "effect.supplementaries.flammable.description": "Increases on fire duration and spreads fire as you walk",
   "effect.supplementaries.overencumbered": "Overencumbered",
   "effect.supplementaries.overencumbered.description": "Prevents sprinting. Further levels reduce jump height hinder walking speed respectively",
-
   "enchantment.supplementaries.lumisene_fire_aspect": "Lumisene Fire Aspect",
   "enchantment.supplementaries.lumisene_fire_aspect.desc": "Causes additional lumisene fire damage when used to attack a mob.",
   "enchantment.supplementaries.lumisene_flame": "Lumisene Flame",
   "enchantment.supplementaries.lumisene_flame.desc": "Arrows fired from the bow will deal additional lumisene fire damage.",
   "enchantment.supplementaries.stasis": "Stasis",
   "enchantment.supplementaries.stasis.desc": "Allows Slingshots projectiles to ignore gravity",
-
   "entity.supplementaries.brick_projectile": "Brick Projectile",
   "entity.supplementaries.cannonball": "Cannonball",
   "entity.supplementaries.dispenser_minecart": "Minecart with Dispenser",
@@ -278,7 +269,6 @@
   "entity.supplementaries.slimeball_projectile": "Slimeball Projectile",
   "entity.supplementaries.slingshot_projectile": "Slingshot Projectile",
   "entity.supplementaries.throwable_brick": "Brick Projectile",
-
   "filled_map.adventure": "Adventurer Map",
   "filled_map.antique": "Weathered Map",
   "filled_map.antique.tooltip": "Weathered",
@@ -298,7 +288,6 @@
   "filled_map.structure": "%s Explorer Map",
   "filled_map.swamp_hut": "Swamp Explorer Map",
   "filled_map.village": "Village Pathfinder Map",
-
   "fluid.supplementaries.experience": "Experience",
   "fluid.supplementaries.honey": "Honey",
   "fluid.supplementaries.jar_fluid": "Jar Fluid",
@@ -310,7 +299,6 @@
   "globe.supplementaries.flat": "Flat",
   "globe.supplementaries.moon": "Moon",
   "globe.supplementaries.sun": "Sun",
-
   "gui.supplementaries.amendments.message": "As of update 2.8.0 some of Supplementaries features in the Tweaks section were moved to a dedicated mod, Amendments.\n\n The mods are meant to function separately, but if you wish to keep all the already-existing old blocks you must install Amendments.\n\n The features moved are the following: WALL LANTERNS, SKULL CANDLES, CEILING POTS, CEILING BANNERS and SKULL PILES. \n\nNote that if you proceed without it, all those existing blocks will be lost.",
   "gui.supplementaries.amendments.suggestions": "You can get the mod HERE",
   "gui.supplementaries.amendments.title": "Warning: Amendments is not installed",
@@ -351,7 +339,6 @@
   "gui.supplementaries.speaker_block.volume": "Volume: ",
   "gui.supplementaries.trapped_present": "Trapped Present",
   "gui.supplementaries.welcome_screen.turn_off": "Don't show this again",
-
   "item.supplementaries.altimeter": "Altimeter",
   "item.supplementaries.antique_ink": "Antique Ink",
   "item.supplementaries.ash": "Ash",
@@ -407,16 +394,12 @@
   "item.supplementaries.speedometer": "Speedometer",
   "item.supplementaries.way_sign": "%s Way Sign",
   "item.supplementaries.wrench": "Wrench",
-
   "tab.supplementaries.jars": "Jars",
   "tab.supplementaries.supplementaries": "Supplementaries",
-
   "jukebox_song.supplementaries.heave_ho": "Hlzfss - Heave Ho!",
   "jukebox_song.supplementaries.pancake": "Hlzfss - Pancake Music",
-
   "leaves_type.twilightforest.dark": "Darkwood",
   "leaves_type.ulterlands.souldrained": "Petrified",
-
   "message.supplementaries.altimeter": "Y: %d",
   "message.supplementaries.argument.instrument.invalid": "Instrument must be one of %1$s, found %2$s",
   "message.supplementaries.argument.source.invalid": "Source must be one of %1$s, found %2$s",
@@ -479,12 +462,10 @@
   "message.supplementaries.timber_frame": "Accepts any full block",
   "message.supplementaries.trapdoor.locked": "This trapdoor is locked",
   "message.supplementaries.wind_vane": "Reacts to weather",
-
   "painting.supplementaries.bombs.author": "Plantkillable",
   "painting.supplementaries.bombs.title": "Bombs",
   "painting.supplementaries.jar.author": "TestedBubble",
   "painting.supplementaries.jar.title": "Jar",
-
   "structure.supplementaries.way_sign": "Way Sign",
   "subtitles.supplementaries.bellows.blow": "Bellows blows",
   "subtitles.supplementaries.bellows.retract": "Bellows contracts",
@@ -525,7 +506,6 @@
   "subtitles.supplementaries.slingshot.release": "Slingshot released",
   "subtitles.supplementaries.soap.wash": "Soap washing",
   "subtitles.supplementaries.turntable.cat": "Ching Cheng Hanji",
-
   "supplementaries.display_source.fluid_amount": "Fluid Amount",
   "supplementaries.display_source.item_name": "Item Name",
   "supplementaries.display_source.notice_board": "Copy Notice Board",
@@ -535,11 +515,6 @@
   "supplementaries.keybind.quiver": "Quiver",
   "supplementaries.virtual_resourcepack.description": "dynamic runtime resources",
   "supplementaries.virtual_resourcepack.title": "Virtual Resourcepack",
-
-
-
-
-
   "tag.block.supplementaries.awnings": "Awnings",
   "tag.block.supplementaries.bamboo_spikes": "Bamboo Spikes",
   "tag.block.supplementaries.beams": "Beam Shape",
@@ -582,10 +557,8 @@
   "tag.block.supplementaries.water_holder": "Water Holder From Rope",
   "tag.block.supplementaries.wattle_and_daubs": "Wattle And Daubs",
   "tag.block.supplementaries.ignores_planter_offset": "Ignores Planter Offset",
-
   "tag.enchantment.supplementaries.slingshot_exclusive_set": "Slingshot Exclusive Set",
   "tag.enchantment.supplementaries.prevents_bubble_pop": "Prevents Bubble Block Pop",
-
   "tag.entity_type.supplementaries.ash_blacklist": "Can't Turn To Ash",
   "tag.entity_type.supplementaries.cage_baby_catchable": "Cage Baby Catchable",
   "tag.entity_type.supplementaries.cage_catchable": "Cage Catchable",
@@ -599,7 +572,6 @@
   "tag.entity_type.supplementaries.rotatable": "Wrench Rotatable",
   "tag.entity_type.supplementaries.tickable_when_captured": "Tickable When Captured",
   "tag.entity_type.supplementaries.urn_spawn": "Urn Spawns",
-
   "tag.item.supplementaries.altimeters": "Altimeters",
   "tag.item.supplementaries.awnings": "Awnings",
   "tag.item.supplementaries.bamboo_spikes": "Bamboo Spikes",
@@ -655,23 +627,17 @@
   "tag.item.supplementaries.trapped_presents": "Trapped Presents",
   "tag.item.supplementaries.wattle_and_daubs": "Wattle And Daubs",
   "tag.item.supplementaries.way_signs": "Way Signs",
-
   "tag.potion.supplementaries.quiver_blacklist": "Quiver Blacklist",
   "tag.potion.supplementaries.tipped_spikes_blacklist": "Tipped Spikes Blacklist",
-
   "tag.worldgen.supplementaries.biome/has_basalt_ash": "Has Basalt Ash",
   "tag.worldgen.supplementaries.biome/has_cave_urns": "Has Cave Urns",
   "tag.worldgen.supplementaries.biome/has_way_signs": "Has Way Signs",
   "tag.worldgen.supplementaries.biome/has_wild_flax": "Has Wild Flax",
-
   "tag.worldgen.supplementaries.structure/adventure_map_destinations": "Adventure Map Destinations",
   "tag.worldgen.supplementaries.structure/way_sign_destinations": "Way Sign Destinations",
-
-
   "trinkets.slot.chest.quiver": "Quiver",
   "trinkets.slot.legs.key": "Key",
   "trinkets.slot.legs.quiver": "Quiver",
-
   "wood_type.domum_ornamentum.cactus": "Green Cactus",
   "wood_type.domum_ornamentum.cactus_extra": "Cactus",
   "wood_type.twilightforest.dark": "Darkwood",

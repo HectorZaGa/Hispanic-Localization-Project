@@ -22,7 +22,7 @@
   "sodium.options.weather_quality.tooltip": "Controla la calidad de los efectos de lluvia y nieve.",
   "sodium.options.leaves_quality.name": "Hojas",
   "sodium.options.leaves_quality.tooltip": "Controla la calidad de las hojas.",
- "sodium.options.particle_quality.tooltip": "Controla el número máximo de partículas que pueden estar presentes en la pantalla al mismo tiempo.",
+  "sodium.options.particle_quality.tooltip": "Controla el número máximo de partículas que pueden estar presentes en la pantalla al mismo tiempo.",
   "sodium.options.smooth_lighting.tooltip": "Controla si los bloques se iluminarán y sombrearán suavemente. Esto aumenta ligeramente el tiempo necesario para reconstruir un chunk, pero no afecta las tasas de fotogramas.",
   "sodium.options.biome_blend.value": "%s bloque(s)",
   "sodium.options.biome_blend.tooltip": "Controla el rango que se muestreará para la coloración de bloques. Valores más altos aumentan considerablemente el tiempo que se tarda en construir chunks por mejoras decrecientes en la calidad.",

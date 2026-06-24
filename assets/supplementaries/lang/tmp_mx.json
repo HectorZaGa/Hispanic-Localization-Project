@@ -15,7 +15,6 @@
   "advancements.nether.goblet.title": "El cáliz de fuego",
   "advancements.story.unenchanter.description": "Desencanta una manzana de oro encantada",
   "advancements.story.unenchanter.title": "¿¡Por qué harías eso!?",
-
   "block.supplementaries.faucet": "Llave",
   "block.supplementaries.planter": "Maceta",
   "block.supplementaries.bellows": "Fuelle",
@@ -36,11 +35,11 @@
   "block.supplementaries.sign_post": "Poste indicador",
   "block.supplementaries.candelabra": "Candelabro de oro",
   "block.supplementaries.firefly_jar": "Frasco con luciérnaga",
-  "block.supplementaries.hourglass" : "Reloj de arena",
+  "block.supplementaries.hourglass": "Reloj de arena",
   "block.supplementaries.globe": "Globo terráqueo",
   "block.supplementaries.sconce_lever": "Candelabro de redstone",
   "block.supplementaries.cage": "Jaula",
-  "block.supplementaries.stone_lamp" : "Lámpara de piedra",
+  "block.supplementaries.stone_lamp": "Lámpara de piedra",
   "block.supplementaries.sconce_green": "Candelabro verde",
   "block.supplementaries.candelabra_silver": "Candelabro de plata",
   "block.supplementaries.item_shelf": "Estante",
@@ -217,20 +216,14 @@
   "block.supplementaries.trapped_present_red": "Regalo Atrapado Rojo",
   "block.supplementaries.trapped_present_white": "Regalo Atrapado Blanco",
   "block.supplementaries.trapped_present_yellow": "Regalo Atrapado Amarillo",
-
-  
-
   "death.attack.supplementaries.bamboo_spikes": "%1$s fue empalado/a por picos de bambú",
   "death.attack.supplementaries.bamboo_spikes.player": "%1$s fue empalado/a por picos de bambú mientras peleaba con %2$s",
   "death.attack.supplementaries.xp_extracting": "%1$s no tenía tanta experiencia después de todo",
   "death.attack.supplementaries.xp_extracting.player": "%1$s extrajo demasiado mientras peleaba con %2$s",
-
   "effect.supplementaries.overencumbered": "Sobrecargado",
   "effect.supplementaries.overencumbered.description": "Evita correr. Niveles adicionales reducen la altura del salto y dificultan la velocidad de caminar respectivamente",
-
   "enchantment.supplementaries.stasis": "Estasis",
   "enchantment.supplementaries.stasis.desc": "Hace que los proyectiles de la resortera ignoren la gravedad",
-
   "entity.supplementaries.firefly": "Luciérnaga",
   "entity.supplementaries.brick_projectile": "Ladrillo proyectil",
   "entity.supplementaries.rope_arrow": "Flecha con cuerda",
@@ -242,7 +235,6 @@
   "entity.supplementaries.dispenser_minecart": "Vagoneta con Dispensador",
   "entity.supplementaries.hat_stand": "Soporte de Sombrero",
   "entity.supplementaries.cannonball": "Bala de Cañón",
-
   "filled_map.adventure": "Mapa de aventura",
   "filled_map.structure": "Mapa de exploración de %s",
   "filled_map.jungle_temple": "Mapa de exploración de la jungla",
@@ -262,24 +254,21 @@
   "filled_map.antique.tooltip": "Antiguo",
   "filled_map.antique": "Mapa antiguo",
   "filled_map.sliced.tooltip": "Pedazo: %d",
-
   "fluid.supplementaries.experience": "Experiencia",
   "fluid.supplementaries.honey": "Miel",
   "fluid.supplementaries.jar_fluid": "Fluido de frasco",
   "fluid.supplementaries.milk": "Leche",
   "fluid.supplementaries.sap": "Savia",
   "fluid.supplementaries.slime": "Slime",
-
   "globe.supplementaries.earth": "Tierra",
   "globe.supplementaries.flat": "Plano",
   "globe.supplementaries.moon": "Luna",
   "globe.supplementaries.sun": "Sol",
-
   "gui.supplementaries.speaker_block.edit": "Editar mensaje del altavoz",
-  "gui.supplementaries.speaker_block.chat_message" : "Mensaje por narrador",
+  "gui.supplementaries.speaker_block.chat_message": "Mensaje por narrador",
   "gui.supplementaries.speaker_block.narrator_message": "Mensaje por chat",
   "gui.supplementaries.blackboard.edit": "Editar pizarrón",
-  "gui.supplementaries.speaker_block.volume" : "Volumen: ",
+  "gui.supplementaries.speaker_block.volume": "Volumen: ",
   "gui.supplementaries.speaker_block.blocks": " bloques",
   "gui.supplementaries.safe.name": "%2$s de %1$s",
   "gui.supplementaries.doormat.edit": "Editar mensaje del tapete",
@@ -312,7 +301,6 @@
   "gui.supplementaries.welcome_screen.turn_off": "No mostrar esto de nuevo",
   "gui.supplementaries.cannon": "Cañón",
   "gui.supplementaries.cannon.maneuver": "Maniobrar",
-
   "item.supplementaries.firefly": "Generar luciérnaga",
   "item.supplementaries.flute": "Flauta",
   "item.supplementaries.bamboo_spikes_tipped": "Picos de bambú con efecto",
@@ -368,11 +356,8 @@
   "item.supplementaries.lumisene_bucket": "Cubo de Lumisene",
   "item.supplementaries.lumisene_bottle": "Botella de Lumisene",
   "fluid.supplementaries.lumisene": "Lumisene",
-
   "itemGroup.jars": "Frascos",
   "itemGroup.supplementaries": "Supplementaries",
-  
-
   "message.supplementaries.command.globe_changed": "Semilla del globo terráqueo modificada",
   "message.supplementaries.command.globe_reset": "Semilla del globo terráqueo reiniciada",
   "message.supplementaries.throwable_brick": "Se puede arrojar",
@@ -427,10 +412,8 @@
   "message.supplementaries.safe.assigned_key_generic": "Asignado a la tecla",
   "message.supplementaries.tattered": "Desgastado",
   "message.supplementaries.cannon_maneuver": "Presiona %2$s para desmontar, %2$s para disparar",
-
   "painting.supplementaries.bombs.author": "Plantkillable",
   "painting.supplementaries.bombs.title": "Bombas",
-
   "structure.supplementaries.way_sign": "Señal de dirección",
   "subtitles.supplementaries.bellows.blow": "Fuelle soplando",
   "subtitles.supplementaries.bellows.retract": "Fuelle contrayéndose",
@@ -459,7 +442,6 @@
   "subtitles.supplementaries.slingshot.charge": "Tirachinas cargado",
   "subtitles.supplementaries.slingshot.release": "Tirachinas lanzado",
   "subtitles.supplementaries.turntable.cat": "Ching Cheng Hanji",
-
   "create.display_source.fill_level.fluid_amount": "Cantidad de líquido",
   "create.item_attributes.present_recipient": "Regalo dirigido a: \"%1$s\"",
   "create.item_attributes.present_recipient.inverted": "Regalo no dirigido a: \"%1$s\"",
@@ -472,19 +454,14 @@
   "supplementaries.keybind.quiver": "Carcaj",
   "supplementaries.virtual_resourcepack.description": "recursos en runtimes dinámicos",
   "supplementaries.virtual_resourcepack.title": "Paquete de recursos virtual",
-
   "config.jade.plugin_supplementaries.hat_stand": "Soporte para sombrero",
-
   "trinkets.slot.chest.quiver": "Carcaj",
   "trinkets.slot.legs.key": "Llave",
   "trinkets.slot.legs.quiver": "Carcaj",
-
   "leaves_type.twilightforest.dark": "Madera oscura",
   "leaves_type.ulterlands.souldrained": "Petrificado",
-
   "block_type.supplementaries.hanging_sign": "Letrero colgante",
   "block_type.supplementaries.sign_post": "Poste de señal",
-
   "wood_type.domum_ornamentum.cactus": "Cactus verde",
   "wood_type.domum_ornamentum.cactus_extra": "Cactus",
   "wood_type.twilightforest.dark": "Madera oscura",

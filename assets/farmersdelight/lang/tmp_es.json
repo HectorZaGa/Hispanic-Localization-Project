@@ -30,7 +30,6 @@
   "block.farmersdelight.rice_bale": "Paca de arroz",
   "block.farmersdelight.rice_bag": "Bolsa de arroz",
   "block.farmersdelight.straw_bale": "Paca de paja",
-
   "block.farmersdelight.canvas_sign": "Cartel de tela",
   "block.farmersdelight.white_canvas_sign": "Cartel de tela blanca",
   "block.farmersdelight.orange_canvas_sign": "Cartel de tela naranja",
@@ -48,7 +47,6 @@
   "block.farmersdelight.green_canvas_sign": "Cartel de tela verde",
   "block.farmersdelight.red_canvas_sign": "Cartel de tela roja",
   "block.farmersdelight.black_canvas_sign": "Cartel de tela negra",
-
   "block.farmersdelight.tomatoes": "Tomates",
   "block.farmersdelight.cabbages": "Coles",
   "block.farmersdelight.onions": "Cebollas",
@@ -56,7 +54,6 @@
   "block.farmersdelight.rice_panicles": "Cultivos de arroz superiores",
   "block.farmersdelight.brown_mushroom_colony": "Colonia de hongos marrones",
   "block.farmersdelight.red_mushroom_colony": "Colonia de hongos rojos",
-
   "block.farmersdelight.wild_cabbages": "Col silvestre",
   "block.farmersdelight.wild_tomatoes": "Vides de tomate silvestre",
   "block.farmersdelight.wild_onions": "Cebolla silvestre",
@@ -64,11 +61,9 @@
   "block.farmersdelight.wild_potatoes": "Patata silvestre",
   "block.farmersdelight.wild_beetroots": "Remolacha de mar silvestre",
   "block.farmersdelight.wild_rice": "Arroz silvestre",
-
   "block.farmersdelight.apple_pie": "Tarta de manzana",
   "block.farmersdelight.sweet_berry_cheesecake": "Cheesecake con bayas dulces",
   "block.farmersdelight.chocolate_pie": "Pastel de chocolate",
-
   "item.farmersdelight.tomato": "Tomate",
   "item.farmersdelight.cabbage": "Col",
   "item.farmersdelight.onion": "Cebolla",
@@ -77,11 +72,9 @@
   "item.farmersdelight.tomato_seeds": "Semillas de tomate",
   "item.farmersdelight.rice_panicle": "Panícula de arroz",
   "item.farmersdelight.rotten_tomato": "Tomate podrido",
-
   "item.farmersdelight.straw": "Paja",
   "item.farmersdelight.canvas": "Tela",
   "item.farmersdelight.tree_bark": "Corteza de árbol",
-
   "item.farmersdelight.tomato_sauce": "Salsa de tomate",
   "item.farmersdelight.fried_egg": "Huevo frito",
   "item.farmersdelight.milk_bottle": "Botella de leche",
@@ -106,7 +99,6 @@
   "item.farmersdelight.cooked_mutton_chops": "Chuletas de cordero cocidas",
   "item.farmersdelight.ham": "Jamón",
   "item.farmersdelight.smoked_ham": "Jamón cocido",
-
   "item.farmersdelight.pie_crust": "Corteza de tarta",
   "item.farmersdelight.cake_slice": "Porción de pastel",
   "item.farmersdelight.apple_pie_slice": "Porción de pastel de manzana",
@@ -116,16 +108,13 @@
   "item.farmersdelight.sweet_berry_cookie": "Galleta de bayas dulces",
   "item.farmersdelight.honey_cookie": "Galleta de miel",
   "item.farmersdelight.melon_popsicle": "Palito de melón",
-   "item.farmersdelight.glow_berry_custard": "Natilla de bayas luminosas",
-
+  "item.farmersdelight.glow_berry_custard": "Natilla de bayas luminosas",
   "item.farmersdelight.earthworm": "Lombriz",
-
   "item.farmersdelight.flint_knife": "Cuchillo de pedernal",
   "item.farmersdelight.iron_knife": "Cuchillo de hierro",
   "item.farmersdelight.golden_knife": "Cuchillo de oro",
   "item.farmersdelight.diamond_knife": "Cuchillo de diamante",
   "item.farmersdelight.netherite_knife": "Cuchillo de netherita",
-
   "item.farmersdelight.barbecue_stick": "Brocheta de carne asada",
   "item.farmersdelight.egg_sandwich": "Sándwich de huevo",
   "item.farmersdelight.chicken_sandwich": "Sándwich de pollo",
@@ -135,11 +124,10 @@
   "item.farmersdelight.dumplings": "Albóndigas",
   "item.farmersdelight.stuffed_potato": "Patata rellena",
   "item.farmersdelight.cabbage_rolls": "Rollos de col",
-   "item.farmersdelight.salmon_roll": "Rollos de salmon",
+  "item.farmersdelight.salmon_roll": "Rollos de salmon",
   "item.farmersdelight.cod_roll": "Rollos de bacalao",
   "item.farmersdelight.kelp_roll": "Rollos de sargazo",
   "item.farmersdelight.kelp_roll_slice": "Rebanada de rollo de sargazo",
-
   "item.farmersdelight.cooked_rice": "Arroz cocido",
   "item.farmersdelight.mixed_salad": "Ensalada mixta",
   "item.farmersdelight.nether_salad": "Ensalada del Nether",
@@ -151,8 +139,7 @@
   "item.farmersdelight.pumpkin_soup": "Sopa de calabaza",
   "item.farmersdelight.baked_cod_stew": "Estofado de bacalao al horno",
   "item.farmersdelight.noodle_soup": "Sopa de fideos",
-   "item.farmersdelight.bone_broth": "Caldo de huesos",
-  
+  "item.farmersdelight.bone_broth": "Caldo de huesos",
   "item.farmersdelight.bacon_and_eggs": "Tocino con huevos",
   "item.farmersdelight.pasta_with_meatballs": "Pasta con albóndigas",
   "item.farmersdelight.pasta_with_mutton_chop": "Pasta con chuleta de cordero",
@@ -163,7 +150,6 @@
   "item.farmersdelight.squid_ink_pasta": "Pasta con tinta de calamar",
   "item.farmersdelight.grilled_salmon": "Salmón a la parrilla",
   "item.farmersdelight.mushroom_rice": "Arroz con champiñones",
-
   "block.farmersdelight.roast_chicken_block": "Pollo asado",
   "item.farmersdelight.roast_chicken": "Plato de pollo asado",
   "block.farmersdelight.stuffed_pumpkin_block": "Calabaza rellena",
@@ -173,30 +159,22 @@
   "block.farmersdelight.shepherds_pie_block": "Pastel de pastor",
   "item.farmersdelight.shepherds_pie": "Plato de Pastel de Pastor",
   "block.farmersdelight.rice_roll_medley_block": "Rollos de arroz",
-  
   "item.farmersdelight.dog_food": "Comida para perros",
   "item.farmersdelight.horse_feed": "Comida para caballos",
-
   "entity.farmersdelight.rotten_tomato": "Tomate podrido",
-
   "effect.farmersdelight.nourishment": "Nutrido",
   "effect.farmersdelight.comfort": "Bienestar",
-
   "effect.farmersdelight.nourishment.0.desc": "Evita la pérdida de hambre, excepto cuando se utiliza la saturación para curar el daño.",
   "effect.farmersdelight.comfort.0.desc": "Te hace inmune al Hambre, la Lentitud y la Debilidad.",
-
   "enchantment.farmersdelight.backstabbing": "Puñaladas por la espalda",
   "enchantment.farmersdelight.backstabbing.desc": "Amplifica el daño al golpear a un objetivo por detrás.",
-
   "itemGroup.farmersdelight": "Farmer's Delight",
-
   "farmersdelight.container.cooking_pot": "Olla",
   "farmersdelight.container.cooking_pot.served_on": "Servido en: %s",
   "farmersdelight.container.cooking_pot.not_heated": "Necesita calor desde abajo",
   "farmersdelight.container.cooking_pot.heated": "Calentado",
   "farmersdelight.container.basket": "Cesta",
   "farmersdelight.container.cabinet": "Despensa",
-
   "farmersdelight.tooltip.cooking_pot.empty": "Vacío",
   "farmersdelight.tooltip.cooking_pot.single_serving": "Contiene 1 porción de:",
   "farmersdelight.tooltip.cooking_pot.many_servings": "Contiene %s porciones de:",
@@ -205,10 +183,8 @@
   "farmersdelight.tooltip.milk_bottle": "Quita un efecto",
   "farmersdelight.tooltip.hot_cocoa": "Quita un efecto nocivo",
   "farmersdelight.tooltip.melon_juice": "Salud instantánea menor",
-
   "farmersdelight.advancement.root": "Farmer's Delight",
   "farmersdelight.advancement.root.desc": "Un mundo de sabor le espera!",
-  
   "farmersdelight.advancement.craft_knife": "Caza y recolección",
   "farmersdelight.advancement.craft_knife.desc": "Crea un Cuchillo para obtener más bienes de las plantas y los animales",
   "farmersdelight.advancement.get_fd_seed": "Cultivos silvestres",
@@ -227,7 +203,6 @@
   "farmersdelight.advancement.get_mushroom_colony.desc": "Planta los hongos en un suelo rico bajo la oscuridad, observa cómo se forma una colonia y luego córtalos.",
   "farmersdelight.advancement.obtain_netherite_knife": "Si no puedes soportar el calor...",
   "farmersdelight.advancement.obtain_netherite_knife.desc": "Gasta un lingote de netherita entero para mejorar tu cuchillo. O sal de la cocina.",
-
   "farmersdelight.advancement.place_campfire": "Hoguera encendida",
   "farmersdelight.advancement.place_campfire.desc": "Coloca una hoguera para mantenerte caliente por la noche",
   "farmersdelight.advancement.place_stove": "Enciende la parrilla",
@@ -250,21 +225,18 @@
   "farmersdelight.advancement.use_cutting_board.desc": "Con una herramienta en la mano, utilízala en una tabla de picar para dividir algunos elementos",
   "farmersdelight.advancement.master_chef": "Master Chef",
   "farmersdelight.advancement.master_chef.desc": "¡Coma un plato de cada comida disponible!",
-
   "farmersdelight.subtitles.cooking_pot.boil": "Blobs de la olla hirviendo",
   "farmersdelight.subtitles.cutting_board.knife_cut": "Cortes de cuchillo",
   "farmersdelight.subtitles.stove.crackle": "Crujidos de la parrilla",
   "farmersdelight.subtitles.skillet.sizzle": "Chisporroteos de sartén",
   "farmersdelight.subtitles.skillet.add_food": "Silbidos de sartén",
   "farmersdelight.subtitles.tomato.pick": "Tomate estallando",
-
   "farmersdelight.block.feast.use_container": "Necesitas un %s para comer esto.",
   "farmersdelight.block.rice.invalid_placement": "Este cultivo no sobrevivirá bien fuera de aguas poco profundas.",
   "farmersdelight.block.cutting_board.invalid_item": "Esto no parece que se pueda cortar...",
   "farmersdelight.block.cutting_board.invalid_tool": "Tal vez con una herramienta diferente...",
   "farmersdelight.block.skillet.invalid_item": "Esto no puedo ser cocinado...",
   "farmersdelight.item.skillet.how_to_cook": "Usa tu otra mano para coger ingredientes",
-
   "farmersdelight.jei.cooking": "Cocinando",
   "farmersdelight.jei.cutting": "Tabla de picar",
   "farmersdelight.jei.chance": "%1$s%% de probabilidad",

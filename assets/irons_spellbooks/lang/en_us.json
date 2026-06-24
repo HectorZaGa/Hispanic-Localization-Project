@@ -236,7 +236,6 @@
   "item.irons_spellbooks.paladin_chestplate": "Lightbringer Chestplate",
   "item.irons_spellbooks.speed_boots": "Boots of Speed",
   "item.irons_spellbooks.mithril_weave": "Mithril Weave",
-
   "block.irons_spellbooks.inscription_table": "Inscription Table",
   "block.irons_spellbooks.scroll_forge": "Scroll Forge",
   "block.irons_spellbooks.pedestal": "Pedestal",
@@ -367,7 +366,6 @@
   "ui.irons_spellbooks.wandering_trader_scroll": "Any %s Scroll",
   "ui.irons_spellbooks.sacrifice_target_failure": "You must target one of your summons",
   "ui.irons_spellbooks.empty_spellbook_lectern": "This Spellbook is empty...",
-
   "school.irons_spellbooks.fire": "Fire",
   "school.irons_spellbooks.ice": "Ice",
   "school.irons_spellbooks.lightning": "Lightning",
@@ -757,7 +755,6 @@
   "death.attack.irons_spellbooks.ball_lightning.item": "%1$s was zapped to death by %2$s while using %3$s",
   "death.attack.irons_spellbooks.sacrifice.item": "%1$s was blasted away by %2$s's sacrificial magic while using %3$s",
   "death.attack.irons_spellbooks.ice_spikes.item": "%1$s was skewered by %2$s's ice spike swhile using %3$s",
-
   "effect.irons_spellbooks.blood_slashed": "Blood Slashed",
   "effect.irons_spellbooks.angel_wings": "Angel Wings",
   "effect.irons_spellbooks.heartstop": "Heartstop",
@@ -954,12 +951,9 @@
   "advancements.irons_spellbooks.staff_artificer.description": "Acquire an Artificer's Cane.",
   "advancements.irons_spellbooks.staff_lightning_rod.title": "Shocking Discovery",
   "advancements.irons_spellbooks.staff_lightning_rod.description": "Transform a Lightning Rod into a Rod O' Lightning... And survive the process.",
-
-  "advancements.irons_spellbooks.steal_from_wizard.title":"A Fool's Folly",
-  "advancements.irons_spellbooks.steal_from_wizard.description":"Anger a wizard by looting a nearby chest",
-
-  "jukebox_song.irons_spellbooks.dead_king_lullaby" : "Caner Crebes - King's Lullaby",
-
+  "advancements.irons_spellbooks.steal_from_wizard.title": "A Fool's Folly",
+  "advancements.irons_spellbooks.steal_from_wizard.description": "Anger a wizard by looting a nearby chest",
+  "jukebox_song.irons_spellbooks.dead_king_lullaby": "Caner Crebes - King's Lullaby",
   "irons_spellbooks.tetra_effect.freeze": "Freezing",
   "irons_spellbooks.tetra_effect.freeze.tooltip": "Stacks the freezing effect for §e%s seconds.",
   "irons_spellbooks.tetra_effect.mana_siphon": "Mana Siphon",
@@ -1063,7 +1057,6 @@
   "affix.irons_spellbooks:sword/attribute/mana_regen.suffix": "of the Mana-tapped",
   "curios.identifier.spellbook": "Spell Book",
   "curios.modifiers.spellbook": "When equipped as Spell Book:",
-
   "pattern.irons_spellbooks.rune_inscribed_ring": "Rune Inscribed Ring",
   "pattern.irons_spellbooks.rune_inscribed_ring.item": "%s Inscribed Ring",
   "part.irons_spellbooks.rune_inscription": "Rune Inscription",

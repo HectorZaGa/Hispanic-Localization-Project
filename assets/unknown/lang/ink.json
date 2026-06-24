@@ -1,0 +1,38 @@
+{
+  "name": "Tinta",
+  "icon": "irons_spellbooks:epic_ink",
+  "category": "irons_spellbooks:root",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:common_ink",
+      "text": "La más común de las tintas (por ende, el nombre), la tinta común puede crear el nivel más bajo de hechizos. Si el nivel más bajo de un hechizo está por encima de común, no se puede crear con tinta común. Lo mismo ocurre con todas las demás tintas."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:uncommon_ink",
+      "text": "Menos común que la común, puede crear hechizos ligeramente más poderosos."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:rare_ink",
+      "text": "La tinta rara debería poder encontrarse regularmente en cofres de tesoro mágico o al matar criaturas lanzadoras de hechizos."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:epic_ink",
+      "text": "El mejor lugar para encontrar tinta épica y todas las demás tintas de alta rareza es en cofres de tesoro mágico o al matar criaturas lanzadoras de hechizos."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:legendary_ink",
+      "text": "La tinta más rara, creará los hechizos más poderosos. Ten en cuenta que algunos hechizos tienen múltiples niveles legendarios, requiriendo el uso del Yunque Arcano para obtenerlos."
+    },
+    {
+      "type": "patchouli:empty",
+      "draw_filler": false
+    }
+  ]
+}
