@@ -21,7 +21,7 @@
   "block.supplementaries.sign_post": "Señal",
   "block.supplementaries.candelabra": "Candelabro de oro",
   "gui.supplementaries.speaker_block.edit": "Enviar mensaje por altavoz",
-  "gui.supplementaries.speaker_block.chat_message": "Utilizar narrador de voz",
+  "gui.supplementaries.speaker_block.chat_message" : "Utilizar narrador de voz",
   "gui.supplementaries.speaker_block.narrator_message": "Utilizar chat",
   "entity.supplementaries.firefly": "Luciérnaga",
   "block.supplementaries.firefly_jar": "Tarro con luciérnaga",
@@ -31,11 +31,11 @@
   "globe.supplementaries.flat": "Tierra plana",
   "message.supplementaries.command.globe_changed": "Semilla del mundo modificada",
   "message.supplementaries.command.globe_reset": "Semilla del mundo restaurada",
-  "block.supplementaries.hourglass": "Reloj de arena",
+  "block.supplementaries.hourglass" : "Reloj de arena",
   "block.supplementaries.globe": "Globo terráqueo",
   "block.supplementaries.sconce_lever": "Aplique de redstone",
   "block.supplementaries.cage": "Jaula",
-  "block.supplementaries.stone_lamp": "Lámpara de piedra",
+  "block.supplementaries.stone_lamp" : "Lámpara de piedra",
   "block.supplementaries.sconce_green": "Aplique verde",
   "block.supplementaries.candelabra_silver": "Candelabro de plata",
   "block.supplementaries.item_shelf": "Estantería",
@@ -46,7 +46,7 @@
   "block.supplementaries.safe": "Caja fuerte",
   "block.supplementaries.blackboard": "Encerado",
   "container.supplementaries.safe": "Propietario",
-  "gui.supplementaries.speaker_block.volume": "Distancia: ",
+  "gui.supplementaries.speaker_block.volume" : "Distancia: ",
   "gui.supplementaries.speaker_block.blocks": " bloques",
   "block.supplementaries.soul_jar": "Tarro de almas",
   "item.supplementaries.flute": "Flauta",
@@ -54,6 +54,7 @@
   "message.supplementaries.wall_lantern": "Aplicable en la pared",
   "message.supplementaries.command.configs_reloaded": "¡Ajustes recargados!",
   "block.supplementaries.copper_lantern": "Farol de cobre",
+
   "message.supplementaries.hourglass": "Acepta líquidos, arena o polvo",
   "message.supplementaries.cage": "Mantén [Shift] para colocar",
   "gui.supplementaries.safe.name": "%1$s's %2$s",
@@ -342,8 +343,11 @@
   "block.supplementaries.lapis_bricks_stairs": "Escaleras de ladrillos de lapislázuli",
   "block.supplementaries.lapis_bricks_slab": "Losa de ladrillos de lapislázuli",
   "block.supplementaries.lapis_bricks_vertical_slab": "Losa vertical de ladrillos de lapislázuli",
+
   "supplementaries.gui.controls": "Supplementaries",
   "supplementaries.keybind.quiver": "Carcaj - Menú de selección de flechas",
+
+
   "subtitles.supplementaries.clock_tick": "Tic-tac",
   "subtitles.supplementaries.gunpowder.ignite": "Chisporroteo",
   "subtitles.supplementaries.bomb": "Explosión",
@@ -369,8 +373,12 @@
   "subtitles.supplementaries.slingshot.charge": "Resortera en tensión",
   "subtitles.supplementaries.slingshot.release": "Sonido de proyectil",
   "subtitles.supplementaries.turntable.cat": "Ching Cheng Hanji",
+
+
   "block_type.supplementaries.hanging_sign": "Cartel colgante",
   "block_type.supplementaries.sign_post": "Señal",
+
+
   "block.supplementaries.laser_block": "Ender Beamer",
   "death.attack.supplementaries.amethyst_shard": "%1$s was sharded to death",
   "death.attack.supplementaries.amethyst_shard.player": "%1$s was sharded to death by %2$s",

@@ -15,6 +15,7 @@
   "advancements.nether.goblet.title": "Con moderación",
   "advancements.story.unenchanter.description": "Elimina el encantamiento de una manzana dorada encantada.",
   "advancements.story.unenchanter.title": "¡¿Por qué!?",
+
   "block.supplementaries.ash": "Ceniza",
   "block.supplementaries.ash_bricks": "Ladrillos de ceniza",
   "block.supplementaries.ash_bricks_slab": "Losa de ladrillos de ceniza",
@@ -108,7 +109,7 @@
   "block.supplementaries.gold_lantern": "Farol de oro",
   "block.supplementaries.gold_trapdoor": "Trampilla de oro",
   "block.supplementaries.gunpowder": "Pólvora",
-  "block.supplementaries.hourglass": "Reloj de arena",
+  "block.supplementaries.hourglass" : "Reloj de arena",
   "block.supplementaries.iron_gate": "Puerta de hierro",
   "block.supplementaries.item_shelf": "Estantería",
   "block.supplementaries.jar": "Tarro de cristal",
@@ -216,16 +217,22 @@
   "block.supplementaries.urn": "Urna",
   "block.supplementaries.wild_flax": "Lino silvestre",
   "block.supplementaries.wind_vane": "Veleta",
-  "block.supplementaries.lunch_basket": "Cesta de almuerzo",
+    "block.supplementaries.lunch_basket": "Cesta de almuerzo",
   "block.supplementaries.fire_pit": "Fogata",
+
+
+
   "death.attack.supplementaries.bamboo_spikes": "%1$s cayó en una trampa de bambú",
   "death.attack.supplementaries.bamboo_spikes.player": "%1$s cayó en una trampa de bambú mientras luchaba contra %2$s",
   "death.attack.supplementaries.xp_extracting": "%1$s no era tan experimentado después de todo",
   "death.attack.supplementaries.xp_extracting.player": "A %1$s le faltaba experiencia luchando contra %2$s",
+  
   "effect.supplementaries.overencumbered": "Lastre",
   "effect.supplementaries.overencumbered.description": "Impide correr, saltar y ralentiza el movimiento según el nivel de carga.",
+
   "enchantment.supplementaries.stasis": "Estasis",
   "enchantment.supplementaries.stasis.desc": "Los proyectiles disparados con la resortera ignoran la gravedad",
+
   "entity.supplementaries.brick_projectile": "Ladrillo",
   "entity.supplementaries.dispenser_minecart": "Vagoneta con dispensador",
   "entity.supplementaries.falling_ash": "Ceniza precipitándose",
@@ -237,6 +244,7 @@
   "entity.supplementaries.rope_arrow": "Flecha con cuerda",
   "entity.supplementaries.slingshot_projectile": "Proyectil",
   "entity.supplementaries.cannonball": "Bala de cañón",
+
   "filled_map.adventure": "Mapa de exploración",
   "filled_map.antique": "Mapa antiguo",
   "filled_map.antique.tooltip": "Antiguo",
@@ -256,16 +264,19 @@
   "filled_map.structure": "Mapa de exploración de %s",
   "filled_map.swamp_hut": "Mapa de exploración de cabaña del pantano",
   "filled_map.village": "Mapa de exploración de aldea",
+
   "fluid.supplementaries.experience": "Experiencia",
   "fluid.supplementaries.honey": "Miel",
   "fluid.supplementaries.jar_fluid": "Líquido",
   "fluid.supplementaries.milk": "Leche",
   "fluid.supplementaries.sap": "Resina",
   "fluid.supplementaries.slime": "Slime",
+
   "globe.supplementaries.earth": "Tierra",
   "globe.supplementaries.flat": "Tierra plana",
   "globe.supplementaries.moon": "Luna",
   "globe.supplementaries.sun": "Sol",
+
   "gui.supplementaries.amendments.message": "A partir de la actualización 2.8.0, algunas de las características de supplementaries en la sección de ajustes se trasladaron a un mod dedicado, amendments.\n\n Los mods están destinados a funcionar por separado, pero si desea conservar todos los bloques antiguos ya existentes, debe instalar amendments.\n\n Las características trasladadas son las siguientes: faroles de pared, velas de cráneo, macetas de techo, banderas de techo y pilas de cráneos.\n\n Tenga en cuenta que si procede sin todos esos bloques existentes, se perderán.",
   "gui.supplementaries.amendments.suggestions": "Puede obtener el mod aquí",
   "gui.supplementaries.amendments.title": "Advertencia: amendments no está instalado",
@@ -294,13 +305,14 @@
   "gui.supplementaries.speaker_block": "Bloque de altavoz",
   "gui.supplementaries.speaker_block.action_bar_message": "Mensaje de estado",
   "gui.supplementaries.speaker_block.blocks": " bloques",
-  "gui.supplementaries.speaker_block.chat_message": "Utilizar narrador de voz",
+  "gui.supplementaries.speaker_block.chat_message" : "Utilizar narrador de voz",
   "gui.supplementaries.speaker_block.edit": "Enviar mensaje por altavoz",
   "gui.supplementaries.speaker_block.narrator_message": "Mensaje del chat",
   "gui.supplementaries.speaker_block.title_message": "Mensaje de título",
   "gui.supplementaries.speaker_block.volume": "Volumen: ",
   "gui.supplementaries.trapped_present": "Preparación de regalo",
   "gui.supplementaries.welcome_screen.turn_off": "No mostrar esto nuevamente",
+
   "item.supplementaries.altimeter": "Altímetro",
   "item.supplementaries.antique_ink": "Tinta antigua",
   "item.supplementaries.ash": "Ceniza",
@@ -335,8 +347,11 @@
   "item.supplementaries.soap_water": "Agua enjabonada",
   "item.supplementaries.speedometer": "Velocímetro",
   "item.supplementaries.wrench": "Llave inglesa",
+
   "itemGroup.jars": "Tarros",
   "itemGroup.supplementaries": "Supplementaries",
+
+
   "message.supplementaries.altimeter": "Y: %d",
   "message.supplementaries.blackboard": "Patrón fijado",
   "message.supplementaries.bubble_blower_tooltip": "Jabón: %1$s / %2$s",
@@ -391,8 +406,10 @@
   "message.supplementaries.trapdoor.locked": "Esta trampilla está cerrada con llave",
   "message.supplementaries.wind_vane": "Emite una señal en función del clima",
   "message.supplementaries.cannon_maneuver": "Presiona %2$s para desmontar, %2$s para disparar",
+
   "painting.supplementaries.bombs.author": "Plantkillable",
   "painting.supplementaries.bombs.title": "Bombas",
+
   "structure.supplementaries.way_sign": "Poste",
   "subtitle.supplementaries.bellows.blow": "Fuelle cerrándose",
   "subtitle.supplementaries.bellows.retract": "Fuelle hinchándose",
@@ -421,6 +438,7 @@
   "subtitle.supplementaries.slingshot.charge": "Resortera en tensión",
   "subtitle.supplementaries.slingshot.release": "Sonido de proyectil",
   "subtitle.supplementaries.turntable.cat": "Ching cheng hanji",
+  
   "create.display_source.fill_level.fluid_amount": "Cantidad de líquido",
   "create.item_attributes.present_recipient": "Regalo dirigido a: \"%1$s\"",
   "create.item_attributes.present_recipient.inverted": "Regalo no dirigido a: \"%1$s\"",
@@ -429,18 +447,23 @@
   "supplementaries.display_source.notice_board": "Copiar tablero de anuncios",
   "supplementaries.display_source.time_of_day": "Hora del día",
   "supplementaries.display_source.world_position": "Posición",
-  "supplementaries.gui.controls": "Supplementaries",
+    "supplementaries.gui.controls": "Supplementaries",
   "supplementaries.keybind.quiver": "Carcaj",
   "supplementaries.virtual_resourcepack.description": "Recursos de tiempo de ejecución dinámicos",
   "supplementaries.virtual_resourcepack.title": "Paquete de recursos virtual",
+
   "config.jade.plugin_supplementaries.hat_stand": "Porta sombreros",
+
   "trinkets.slot.chest.quiver": "Carcaj",
   "trinkets.slot.legs.key": "Llave",
   "trinkets.slot.legs.quiver": "Carcaj",
+
   "leaves_type.twilightforest.dark": "Follaje oscuro",
   "leaves_type.ulterlands.souldrained": "Petrificado",
+
   "block_type.supplementaries.hanging_sign": "Letrero colgante",
   "block_type.supplementaries.sign_post": "Poste de señal",
+  
   "wood_type.domum_ornamentum.cactus": "Cactus verde",
   "wood_type.domum_ornamentum.cactus_extra": "Cactus",
   "wood_type.twilightforest.dark": "Madera oscura",
