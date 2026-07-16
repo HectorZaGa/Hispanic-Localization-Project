@@ -1,0 +1,17 @@
+{
+  "name": "Leviatán",
+  "icon": "simplyswords:livyatan",
+  "advancement": "simplyswords:livyatan",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:livyatan",
+      "text": "El Leviatán es un hacha temible capaz de congelar a sus enemigos y hacerlos pedazos para infligir un daño increíble. Con cada golpe, el hacha puede enviar una onda de energía congelante que envuelve a los objetivos cercanos, impidiendo que se muevan por completo."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Si el portador lo desea, el hacha hace pedazos a los enemigos, infligiendo un daño devastador. Se dice que el hacha está forjada del corazón de una criatura legendaria y brilla con una luz azul fría. Esta arma es perfecta para guerreros que desean infligir un daño masivo y controlar el campo de batalla congelando y haciendo pedazos a sus enemigos."
+    }
+  ]
+}

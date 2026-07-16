@@ -1,0 +1,32 @@
+{
+  "key.categories.gtbcs_spell_lib": "GTBC's SpellLib/API",
+  "key.gtbcs_spell_lib.lore_item_previous": "Artículo de historia Página anterior",
+  "key.gtbcs_spell_lib.lore_item_next": "Artículo de historia Página siguiente",
+  "attribute.gtbcs_spell_lib.spell_damage": "Daño de hechizo",
+  "attribute.gtbcs_spell_lib.magic_projectile_damage": "Daño del proyectil mágico",
+  "attribute.gtbcs_spell_lib.spell_crit_chance": "Probabilidad crítica de hechizo",
+  "attribute.gtbcs_spell_lib.spell_crit_damage": "Hechizo de daño crítico",
+  "lore_item.gtbcs_spell_lib.preview.author": "Autor",
+  "lore_item.gtbcs_spell_lib.preview.continue.start": "Presione [",
+  "lore_item.gtbcs_spell_lib.preview.continue.end": "] o [Haga clic] para continuar",
+  "lore_item.gtbcs_spell_lib.credits.title": "Créditos",
+  "lore_item.gtbcs_spell_lib.credits.document": "Nombre:",
+  "lore_item.gtbcs_spell_lib.credits.lore_author": "Historia Autor:",
+  "lore_item.gtbcs_spell_lib.credits.original_author": "Autor original:",
+  "lore_item.gtbcs_spell_lib.credits.credits": "Créditos:",
+  "lore_item.gtbcs_spell_lib.credits.volume": "Volumen:",
+  "lore_item.gtbcs_spell_lib.credits.written_date": "Año escrito:",
+  "lore_item.gtbcs_spell_lib.credits.last_updated": "Año de última actualización:",
+  "lore_item.gtbcs_spell_lib.tooltip.open_prompt": "Haga clic derecho mientras lo sostiene en la mano para abrir",
+  "item.gtbcs_spell_lib.gsl_example_lore_item": "Ejemplo de elemento de conocimiento",
+  "item.gtbcs_spell_lib.gsl_example_crit_staff": "Ejemplo de elemento de bastón crítico",
+  "item.gtbcs_spell_lib.spell_imbuing_curio.already_assigned.message": "¡No puedo imbuir el mismo eco con otro hechizo!",
+  "item.gtbcs_spell_lib.spell_imbuing_curio.not_enough_xp.message": "¡No hay suficientes puntos de experiencia!",
+  "item.gtbcs_spell_lib.spell_imbuing_curio.success": "¡Imbuido de hechizo!",
+
+
+
+
+
+  "item.gtbcs_spell_lib.random_imbue_curio.ex_required.tooltip": "¡Requiere puntos de experiencia!"
+}

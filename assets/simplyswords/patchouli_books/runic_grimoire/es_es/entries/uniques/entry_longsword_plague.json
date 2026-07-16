@@ -1,0 +1,17 @@
+{
+  "name": "Espada Larga de la Plaga",
+  "icon": "simplyswords:toxic_longsword",
+  "advancement": "simplyswords:longsword_plague",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:toxic_longsword",
+      "text": "La Espada Larga de la Plaga es un arma maldita capaz de transformar bendiciones, como la regeneración o la resistencia, de sus enemigos en efectos debilitantes. Esto puede dejar a los enemigos debilitados y vulnerables, dando al portador una ventaja en combate."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Se dice que la espada está forjada a partir de los restos de víctimas de una gran plaga e imbuida con una magia oscura. Irradiando un aura ominosa de decadencia, esta arma es perfecta para guerreros que quieren perturbar a sus enemigos y cambiar el rumbo de la batalla."
+    }
+  ]
+}

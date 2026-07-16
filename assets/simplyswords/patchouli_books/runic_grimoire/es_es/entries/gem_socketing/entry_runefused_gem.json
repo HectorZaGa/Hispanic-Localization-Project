@@ -1,0 +1,20 @@
+{
+  "name": "Gema Fusirrúnica",
+  "icon": "simplyswords:runefused_gem",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runefused_gem",
+      "text": "Las gemas fusirrúnicas se pueden obtener combinando un vestigio potenciado y una tableta rúnica dentro de una mesa de herrería. Una vez identificadas, estas gemas revelarán un poder rúnico aleatorio contenido dentro de la gema."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Las gemas fusirrúnicas se pueden engastar en armas únicas que contengan un [ zócalo fusirrúnico ] vacío. Estas gemas solo son capaces de alojar Poderes Rúnicos de la variedad 'Al golpear'."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:runefused_gem"
+    }
+  ]
+}

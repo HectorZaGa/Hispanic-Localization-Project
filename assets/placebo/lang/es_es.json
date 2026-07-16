@@ -1,0 +1,8 @@
+{
+  "key.categories.placebo": "Placebo",
+  "placebo.toggleTrails": "Alternar rutas de seguidores",
+  "placebo.toggleWings": "Alternar alas de apoyo",
+  "placebo.cmd.serialize_success": "Guardado%sa%s.",
+  "placebo.cmd.serialize_failure": "Se produjo un error durante el proceso de serialización.",
+  "placebo.cmd.not_found": " No se encontró%s."
+}

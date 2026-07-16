@@ -1,0 +1,13 @@
+{
+  "name": "Viento Ardiente",
+  "icon": "simplyswords:flamewind",
+  "advancement": "simplyswords:flamewind",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:flamewind",
+      "text": "Todavía no está implementado"
+    }
+  ]
+}

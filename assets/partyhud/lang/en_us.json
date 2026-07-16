@@ -1,0 +1,207 @@
+{
+  "partyhud.button.already_pinned": "[✔]",
+  "partyhud.button.pin": "[+]",
+  "partyhud.status.no_data": "NO DATA",
+  "partyhud.status.offline": "OFFLINE",
+
+  "partyhud.chat.invite": "%s invited you to join their party.",
+  "partyhud.chat.accept": "[Accept]",
+  "partyhud.chat.decline": "[Decline]",
+
+
+  "partyhud.label.favorites": "Favorites",
+
+  "partyhud.button.already_in_party": "Already in party",
+  "partyhud.button.empty": "[Empty]",
+
+  "partyhud.chat.only_leader_can_invite": "Only the party leader can invite players.",
+  "partyhud.chat.invite_failed_offline": "That player is no longer online.",
+  "partyhud.chat.target_already_in_party": "%s is already in a party.",
+  "partyhud.chat.only_leader_can_kick": "Only the party leader can kick members.",
+  "partyhud.chat.kicked_from_party": "You were kicked from the party by %s.",
+  "partyhud.chat.you_kicked_player": "You kicked %s from the party.",
+
+  "partyhud.chat.not_leader": "Only the leader can invite!",
+  "partyhud.chat.delegated_leader": "Delegated leadership to %s.",
+  "partyhud.chat.invalid_delegate": "Invalid delegation target.",
+  "partyhud.chat.party_full": "Party full! (Max 6 members)",
+
+  "partyhud.chat.insufficient_perms": "You don't have permission to teleport.",
+  "partyhud.chat.not_party_member": "That player is not in your party.",
+  "partyhud.chat.target_offline": "Player is offline.",
+  "partyhud.chat.tp_success": "Teleported to %s!",
+
+  "key.partyhud.open_screen": "Open Party HUD Screen",
+  "key.categories.partyhud": "Party HUD",
+
+  "config.partyhud.configuration.title": "Party HUD Configuration",
+
+  "config.partyhud.configuration.partyHudClient": "Party HUD Client",
+  "config.partyhud.configuration.partyHudClient.overlayPosition": "Overlay Position",
+  "config.partyhud.configuration.partyHudClient.overlayPosition.tooltip": "Position of the party HUD overlay",
+
+  "config.partyhud.configuration.partyHudClient.overlayStyle": "Overlay Style",
+  "config.partyhud.configuration.partyHudClient.overlayStyle.tooltip": "Overlay style: STANDARD, MODERN, COMPACT or RPG",
+
+  "config.partyhud.configuration.partyHudClient.maxTrackedPlayers": "Max Tracked Players",
+  "config.partyhud.configuration.partyHudClient.maxTrackedPlayers.tooltip": "Maximum number of nearby players to show in the HUD (1-6)",
+
+  "config.partyhud.configuration.partyHudClient.hudAlpha": "HUD Alpha",
+  "config.partyhud.configuration.partyHudClient.hudAlpha.tooltip": "HUD opacity (0 = invisible, 255 = fully opaque)",
+
+  "config.partyhud.configuration.partyHudClient.showNames": "Show Names",
+  "config.partyhud.configuration.partyHudClient.showNames.tooltip": "Show player names on the party HUD",
+
+  "config.partyhud.configuration.partyHudClient.healthTextMode": "Health Text Mode",
+  "config.partyhud.configuration.partyHudClient.healthTextMode.tooltip": "Health text mode: NONE, VALUE, PERCENT",
+
+  "config.partyhud.configuration.partyHudClient.barScale": "Bar Scale",
+  "config.partyhud.configuration.partyHudClient.barScale.tooltip": "Global scale for party HUD bars (50-100, as percent of default size)",
+
+  "config.partyhud.configuration.partyHudClient.enableTracker": "Enable Tracker",
+  "config.partyhud.configuration.partyHudClient.enableTracker.tooltip": "Enable 3D tracker overlay: shows player head icons floating at their position",
+
+  "config.partyhud.configuration.development": "Development",
+  "config.partyhud.configuration.development.devShowSelf": "DEV: Show Self",
+  "config.partyhud.configuration.development.devShowSelf.tooltip": "DEV: Show local player in HUD for overlay testing",
+
+  "partyhud.button.edit_mode.on": "✋",
+  "partyhud.button.edit_mode.off": "✊",
+  "partyhud.button.exit_edit_mode": "Exit Edit Mode",
+  "partyhud.button.names.on": "👤",
+  "partyhud.button.names.off": "👤",
+  "partyhud.button.offline.on": "🌐",
+  "partyhud.button.offline.off": "❌",
+  "partyhud.button.tracker.on": "👁",
+  "partyhud.button.tracker.off": "👁",
+  "partyhud.button.kick": "X",
+  "partyhud.button.leader": "👑",
+  "partyhud.button.tp": "TP",
+  "partyhud.button.invite": "P",
+  "partyhud.button.invite.full": "FULL",
+  "partyhud.button.leave_party": "Leave Party",
+
+  "partyhud.menu.add_to_hud": "Add to HUD",
+  "partyhud.menu.remove_from_hud": "Remove from HUD",
+  "partyhud.drag.mode.favorites": "Mode: Favorites Only (max %s)",
+  "partyhud.drag.mode.all": "Mode: All Members",
+  "partyhud.drag.hint": "Drag to move",
+
+  "partyhud.screen.title": "Party HUD - Players",
+  "partyhud.label.no_players": "No players online",
+  "partyhud.label.no_results": "No results found",
+  "partyhud.label.empty_party": "Party is empty",
+  "partyhud.style.default": "Default Style",
+  "partyhud.health_text.percentage": "Percentage",
+
+  "partyhud.menu.invite": "Invite to Party",
+  "partyhud.menu.favorite": "Add to Favorites",
+  "partyhud.menu.unfavorite": "Remove from Favorites",
+  "partyhud.menu.profile": "View Profile",
+  "partyhud.menu.teleport": "Teleport",
+  "partyhud.menu.make_leader": "Make Leader",
+  "partyhud.menu.kick": "Kick from Party",
+  "partyhud.menu.leave": "Leave Party",
+
+
+  "partyhud.style.standard.short": "S",
+  "partyhud.style.modern.short": "M",
+  "partyhud.style.compact.short": "C",
+  "partyhud.style.rpg.short": "R",
+
+  "partyhud.edit_mode.title": "EDIT MODE",
+
+  "partyhud.label.online_players": "Online Players",
+  "partyhud.label.party": "Party",
+
+  "partyhud.search.placeholder": "Search...",
+  "partyhud.player.offline": "🔌",
+
+  "partyhud.player.offline_tag": " (offline)",
+
+  "partyhud.tooltip.edit_mode": "Edit Mode (Drag HUD)",
+  "partyhud.tooltip.style": "Change HUD Style",
+  "partyhud.tooltip.names": "Show/Hide Names",
+  "partyhud.tooltip.offline": "Show Offline Members",
+  "partyhud.tooltip.tracker": "3D Tracker",
+  "partyhud.tooltip.close": "Close Screen",
+
+
+  "partyhud.chat.invite_accepted": "%s joined your party!",
+  "partyhud.chat.invite_declined": "%s declined your invite",
+  "partyhud.chat.you_declined": "You declined the invite",
+  "partyhud.chat.joined_party": "You joined %s's party",
+  "partyhud.chat.left_party": "You left the party",
+  "partyhud.chat.no_party": "You are not in a party",
+  "partyhud.chat.invalid_invite": "Invalid invite",
+  "partyhud.chat.invite_expired": "Invite expired",
+  "partyhud.chat.inviter_offline": "Inviter is offline",
+
+  "partyhud.player.unknown": "Unknown",
+
+
+  "partyhud.style.standard": "Standard",
+  "partyhud.style.modern": "Modern",
+  "partyhud.button.edit_mode": "Edit",
+
+
+  "partyhud.edit_screen.title": "Party HUD Settings",
+
+  "partyhud.button.close": "Close",
+  "partyhud.button.tracker": "Party Tracker",
+  "partyhud.button.offline": "Offline Members",
+  "partyhud.button.names": "Show Names",
+  "partyhud.button.drag_mode": "Drag Mode",
+  "partyhud.button.scale": "Scale: %s%%",
+
+  "partyhud.style.rpg": "RPG Style",
+  "partyhud.style.minimal": "Minimal Style",
+  "partyhud.style.compact": "Compact Style",
+
+  "partyhud.health_text.none": "No Numbers",
+  "partyhud.health_text.value": "HP Value",
+  "partyhud.health_text.percent": "Percentage",
+
+  "partyhud.drag_screen.title": "Drag to Position",
+  "partyhud.drag_screen.hint": "Drag the HUD to reposition",
+  "partyhud.drag_screen.exit_hint": "Press ESC to finish",
+
+
+  "partyhud.configuration.Position": "Position",
+  "partyhud.configuration.Appearance": "Appearance",
+  "partyhud.configuration.Development": "Development",
+  "partyhud.configuration.Party HUD Client": "Party HUD Client",
+  "partyhud.configuration.partyhud": "Server",
+
+  "config.partyhud.position.hud_pos_x_percent": "HUD X Position",
+  "config.partyhud.position.hud_pos_y_percent": "HUD Y Position",
+
+  "config.partyhud.appearance.overlay_style": "Overlay Style",
+  "config.partyhud.appearance.max_tracked_players": "Max Tracked Players",
+  "config.partyhud.appearance.show_names": "Show Names",
+  "config.partyhud.appearance.health_text_mode": "Health Text Mode",
+  "config.partyhud.appearance.bar_scale": "Bar Scale",
+  "config.partyhud.appearance.enable_tracker": "Enable Tracker",
+  "config.partyhud.appearance.show_offline_members": "Show Offline Members",
+  "config.partyhud.appearance.hud_max_visible_members": "HUD Max Visible Members",
+  "config.partyhud.appearance.hud_show_only_favorites": "Show Only Favorites",
+
+  "config.partyhud.development.dev_show_self": "Show Self (Dev)",
+
+  "config.partyhud.common.tp_only_ops": "Teleport Only for OPs",
+
+
+
+  "partyhud.screen.create_party": "Create Party",
+  "partyhud.button.create_party": "Create Party",
+
+  "partyhud.tooltip.create_party": "Create a new party",
+
+  "partyhud.chat.must_create_party_first": "You must create a party first.",
+  "partyhud.chat.cannot_invite_self": "You cannot invite yourself.",
+  "partyhud.chat.target_already_in_your_party": "%s is already in your party.",
+  "partyhud.chat.invite_sent": "Invitation sent to %s.",
+  "partyhud.chat.party_created": "Party \"%s\" created.",
+
+  "partyhud.create_party.name": "Name party"
+}

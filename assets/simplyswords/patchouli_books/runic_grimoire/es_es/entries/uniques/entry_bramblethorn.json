@@ -1,0 +1,17 @@
+{
+  "name": "Bramblethorn",
+  "icon": "simplyswords:bramblethorn",
+  "advancement": "simplyswords:bramblethorn",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:bramblethorn",
+      "text": "El Bramblethorn es un estoque único y mortal que parece ser nada más que una simple ramita, pero que oculta un poderoso secreto en su interior. Fabricado con una madera rara y encantada que es ligera y duradera, el Bramblethorn es capaz de realizar golpes rápidos y mortales."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La capacidad del estoque de liberar una nube de esporas tóxicas con un movimiento de muñeca, puede envenenar e incapacitar a cualquier enemigo que se atreva a acercarse. Aparte de su portador, las esporas no discriminan, así que ten cuidado al blandirlo cerca de aquellos cuyas vidas valoras."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Caída Helada",
+  "icon": "simplyswords:frostfall",
+  "advancement": "simplyswords:frostfall",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:frostfall",
+      "text": "Caída Helada es un martillo poderoso que aprovecha el poder del hielo para congelar sólidos a sus enemigos. El martillo está hecho de un metal raro capaz de resistir el frío intenso del hielo. La cabeza del martillo está imbuida con el poder del hielo, lo que le permite congelar todo lo que golpea."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La habilidad única del martillo es la capacidad de envolver a su portador en una capa protectora de hielo, otorgándoles regeneración y resistencia aumentadas. Se dice que el martillo fue creado por un poderoso mago que lo imbuió con el poder del invierno, convirtiéndolo en un arma temible en el campo de batalla."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Gran hacha",
+  "icon": "simplyswords:iron_greataxe",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_greataxe",
+      "text": "La gran hacha requiere un alto nivel de fuerza y habilidad para ser manejada de manera efectiva. Es un arma de dos manos, lo que significa que el usuario utiliza ambas manos para sostener y balancear el arma. También es conocida por su versatilidad, ya que puede ser utilizada para ataques de corte, rebanado y trituración."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_greataxe",
+      "recipe2": "simplyswords:gold_greataxe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_greataxe"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_greataxe",
+      "recipe2": "simplyswords:runic_greataxe"
+    }
+  ]
+}

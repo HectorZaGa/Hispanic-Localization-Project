@@ -1,0 +1,13 @@
+{
+  "name": "Filo Ardiente",
+  "icon": "simplyswords:emberlash",
+  "advancement": "simplyswords:emberlash",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:emberlash",
+      "text": "El Filo Ardiente es una daga extraordinaria que desafía las armas convencionales, ostentando una hoja hecha de llamas puras y controladas. Filo Ardiente no es meramente un espectáculo visual; La hoja incandescente tiene la capacidad única de cauterizar heridas y cuenta con un alcance más largo que la mayoría de las hojas en su clase de peso."
+    }
+  ]
+}

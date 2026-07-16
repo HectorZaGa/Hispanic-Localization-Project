@@ -1,0 +1,17 @@
+{
+  "name": "Ímpetu",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Ímpetu",
+      "text": "Ímpetu es un poder rúnico que impregna el arma del portador con la $(#389fff)$(l)esencia de masa y velocidad$(). $(br2)Genera un impulso hacia adelante, propulsando rápidamente al portador hacia adelante."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La oleada de energía creada por Ímpetu puede utilizarse con gran efectividad en combate, permitiendo al portador cubrir terreno rápidamente y moverse para el ataque."
+    }
+  ]
+}

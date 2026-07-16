@@ -1,0 +1,17 @@
+{
+  "name": "Filo Fundido",
+  "icon": "simplyswords:molten_edge",
+  "advancement": "simplyswords:molten_edge",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:molten_edge",
+      "text": "El Filo Fundido es un hacha feroz que otorga a su portador mayor fuerza y rapidez cuando está herido. A medida que el portador recibe daño, el hacha se vuelve más poderosa, permitiéndole golpear más duro y más rápido en batalla."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Además, el hacha tiene la capacidad de emitir un poderoso grito de guerra cuando se usa, acelerando en gran medida los movimientos del portador y permitiéndole cerrar rápidamente la distancia con sus enemigos. Se dice que el hacha está forjada a partir de lava fundida, y emana un aura ardiente. Esta arma es perfecta para los guerreros que quieren luchar ferozmente en la batalla y superar cualquier adversidad."
+    }
+  ]
+}

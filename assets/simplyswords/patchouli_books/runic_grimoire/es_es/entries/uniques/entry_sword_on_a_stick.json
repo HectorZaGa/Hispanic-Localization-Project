@@ -1,0 +1,17 @@
+{
+  "name": "Espada Empalada",
+  "icon": "simplyswords:sword_on_a_stick",
+  "advancement": "simplyswords:sword_on_a_stick",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:sword_on_a_stick",
+      "text": "La Espada Empalada es un arma legendaria, se dice que ha sido transmitida de generación en generación de una familia de grandes guerreros. Los cuentos de sus hazañas se han extendido por todo el mundo y todos los que prestan oído no pueden evitar sentirse impresionados por su poder."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Pero pensándolo bien, probablemente solo sea un palo con una espada atada en el extremo."
+    }
+  ]
+}

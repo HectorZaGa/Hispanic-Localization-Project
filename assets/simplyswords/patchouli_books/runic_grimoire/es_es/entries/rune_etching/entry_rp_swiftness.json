@@ -1,0 +1,17 @@
+{
+  "name": "Rapidez",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Rapidez",
+      "text": "Rapidez es un poder rúnico que impregna el arma del portador con la $(#389fff)$(l)esencia de velocidad y agilidad$(). $(br2)Concede al portador la posibilidad de aumentar su velocidad de movimiento con cada golpe exitoso."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Rapidez es un poder rúnico poderoso que puede otorgar al portador una ventaja significativa en la batalla. $(br2)Es ideal para personajes que dependen de la movilidad y la velocidad, como pícaros, exploradores y monjes, que pueden usar el poder para superar a sus enemigos y golpear rápidamente."
+    }
+  ]
+}

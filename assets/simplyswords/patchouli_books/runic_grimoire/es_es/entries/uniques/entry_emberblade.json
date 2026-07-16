@@ -1,0 +1,17 @@
+{
+  "name": "Emberblade",
+  "icon": "simplyswords:emberblade",
+  "advancement": "simplyswords:emberblade",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:emberblade",
+      "text": "La Emberblade es una poderosa espada larga imbuida con el poder del fuego. La hoja está forjada con un metal raro que puede resistir el intenso calor de las llamas que la rodean. Conocida por envolver a su portador en llamas, la Emberblade puede otorgar fuerza y velocidad aumentadas."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Se dice que la espada elige a su portador y que solo aquellos que sean dignos pueden empuñarla. Sin embargo, se ha dicho que usar las habilidades de la espada durante demasiado tiempo puede hacer que el portador pierda el control y sea abrumado por las llamas, lo que resulta en un destino horroroso."
+    }
+  ]
+}

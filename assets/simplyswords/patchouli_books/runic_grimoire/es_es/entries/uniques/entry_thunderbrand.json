@@ -1,0 +1,17 @@
+{
+  "name": "Marca del Trueno",
+  "icon": "simplyswords:thunderbrand",
+  "advancement": "simplyswords:thunderbrand",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:thunderbrand",
+      "text": "La Marca del Trueno es una alabarda legendaria que aprovecha el poder del trueno. La alabarda está forjada con un metal raro que puede conducir la electricidad con facilidad, mientras que el mango está envuelto en un material aislante especial que permite al portador sostenerla de manera segura."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La capacidad de la alabarda para avanzar con una velocidad increíble permite al portador acortar la distancia y golpear con precisión mortal. La Marca del Trueno también es capaz de liberar una poderosa oleada de electricidad que puede golpear a múltiples enemigos a la vez, lo que la convierte en un arma formidable en el campo de batalla."
+    }
+  ]
+}

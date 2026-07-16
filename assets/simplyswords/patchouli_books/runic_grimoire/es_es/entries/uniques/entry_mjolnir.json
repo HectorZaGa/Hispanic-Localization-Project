@@ -1,0 +1,17 @@
+{
+  "name": "Mjolnir",
+  "icon": "simplyswords:mjolnir",
+  "advancement": "simplyswords:mjolnir",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:mjolnir",
+      "text": "Forjado por los enanos, Brokkr y Eitri, y regalado al dios del trueno, Thor. Mjolnir es un arma de poder increíble, capaz de nivelar montañas enteras de un solo golpe cuando es empuñada por alguien que es digno."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "En manos menos poderosas, todavía es capaz de convocar rayos cuando no llueve, y de regresar a su portador, aunque a una distancia y velocidad significativamente reducidas. ¿Quizás sería mejor que lo devolvieras a su verdadero dueño, no?"
+    }
+  ]
+}

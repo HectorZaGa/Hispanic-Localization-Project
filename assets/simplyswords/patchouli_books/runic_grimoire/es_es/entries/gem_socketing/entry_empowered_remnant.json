@@ -1,0 +1,20 @@
+{
+  "name": "Vestigio Potenciado",
+  "icon": "simplyswords:empowered_remnant",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:empowered_remnant",
+      "text": "Los vestigios potenciados se pueden obtener fundiendo armas únicas en un horno. El arma se destruye y una pequeña porción de su poder permanecerá en forma de un vestigio potenciado."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Cuando este objeto se combina en una mesa de herrería con un catalizador, como una Tabla Rúnica o un Lingote de Netherita, se puede formar una gema. Estas gemas luego se pueden insertar en enchufes coincidentes en armas únicas, lo que te permite potenciarlas de varias maneras."
+    },    
+    {
+      "type": "patchouli:smelting",
+      "recipe": "simplyswords:unique_melting"
+    }
+  ]
+}

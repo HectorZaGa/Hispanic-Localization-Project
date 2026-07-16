@@ -1,0 +1,13 @@
+{
+  "name": "Perforavelas",
+  "icon": "simplyswords:wickpiercer",
+  "advancement": "simplyswords:wickpiercer",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:wickpiercer",
+      "text": "Perforavelas es una lanza exquisita que combina elegantemente la elegancia con la letalidad, reminiscente de un candelabro ornamentado. Perforavelas tiene la capacidad de influir en la mente y el cuerpo de su portador, llevándolos a un acceso de ira y aumentando su agilidad."
+    }
+  ]
+}

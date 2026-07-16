@@ -1,0 +1,17 @@
+{
+  "name": "Lentitud",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Lentitud",
+      "text": "Lentitud es un poder rúnico que impregna el arma del portador con la $(#87185d)$(l)esencia de pereza y letargo$(). $(br2)Concede al portador la oportunidad de reducir la velocidad de movimiento de sus objetivos con cada golpe exitoso."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Lentitud es un poder rúnico poderoso que puede interrumpir el flujo de batalla y dar al portador una ventaja estratégica. $(br2)Es ideal para personajes que confían en tácticas de golpear y correr, ya que les permite ralentizar la persecución y escapar rápidamente."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Impregnar",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Impregnar",
+      "text": "Impregnar es un poder rúnico que impregna el arma del portador con la $(#389fff)$(l)esencia de la magia$(). $(br2)Proporciona al arma la capacidad de lanzar una potente energía mágica al golpear a los enemigos."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "El daño mágico infligido por Impregnar a menudo es impredecible y tiende a disminuir a medida que el arma sufre daño de durabilidad. Sería prudente mantener el arma con Impregnar reparada."
+    }
+  ]
+}

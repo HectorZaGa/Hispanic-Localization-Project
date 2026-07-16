@@ -1,0 +1,34 @@
+{
+  "name": "Instrumentos de Conjuración",
+  "icon": "irons_spellbooks:graybeard_staff",
+  "category": "irons_spellbooks:root",
+  "sortnum": 3,
+  "read_by_default" : true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Instrumentos de Conjuración",
+      "text": "Estos instrumentos canalizan la magia y permiten lanzar hechizos."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:graybeard_staff",
+      "text": "Una simple vara es todo lo que se necesita para poner la bola de cristal en movimiento."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:artificer_cane",
+      "text": "A veces, un estilo adicional es todo lo que se necesita para llevar tu conjuración al siguiente nivel."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:ice_staff",
+      "text": "Se rumorea que piezas de un bastón místico helado yacen por el mundo. El Cryomancer puede tener investigaciones guardadas en su torre que revelen más."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blood_staff",
+      "text": "Un antiguo cetro con habilidades de invocación inigualables, solo se puede adquirir quitándoselo a su dueño no muerto."
+    }
+  ]
+}

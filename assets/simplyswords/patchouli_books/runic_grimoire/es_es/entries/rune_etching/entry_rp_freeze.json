@@ -1,0 +1,17 @@
+{
+  "name": "Congelación",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Congelación",
+      "text": "Congelación es un poder rúnico que impregna el arma del portador con la $(#38caff)$(l)esencia del frío y el hielo$(). $(br2)Concede al portador la posibilidad de enfriar o congelar a sus objetivos con cada golpe exitoso."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Congelación es un poder rúnico poderoso que puede interrumpir en gran medida el flujo de batalla y dar al portador una ventaja estratégica. $(br2)Es ideal para personajes centrados en el control de masas y el apoyo, como magos, brujos e invocadores, que pueden usar el poder para inmovilizar a sus enemigos y dar a sus aliados una oportunidad para atacar."
+    }
+  ]
+}

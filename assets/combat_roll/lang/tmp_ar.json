@@ -3,7 +3,7 @@
 
   "keybinds.combat_roll.roll": "Rodar",
 
-  "gui.combat_roll.config_menu": "Configuración de Combat Roll",
+  "gui.combat_roll.config_menu": "Configuración de Rodar en Combate",
   "gui.combat_roll.close": "Cerrar",
   "gui.combat_roll.settings": "Configuraciones",
   "gui.combat_roll.hud": "Mover la flecha",
@@ -17,9 +17,9 @@
   "enchantment.combat_roll.multi_roll": "Rodada Múltiple",
   "enchantment.combat_roll.multi_roll.desc": "Otorga rodadas adicionales",
 
-  "attribute.name.combat_roll.distance": "Distancia de rodada",
-  "attribute.name.combat_roll.count": "Rodada extra",
-  "attribute.name.combat_roll.recharge": "Recarga de rodada",
+  "attribute.name.combat_roll.distance": "Distancia de Rodada",
+  "attribute.name.combat_roll.count": "Rodada Extra",
+  "attribute.name.combat_roll.recharge": "Recarga de Rodada",
 
   "text.autoconfig.combat_roll.title": "Rodar en Combate",
   "text.autoconfig.combat_roll.option.client.playCooldownSound": "Reproducir sonido al terminar la recarga",

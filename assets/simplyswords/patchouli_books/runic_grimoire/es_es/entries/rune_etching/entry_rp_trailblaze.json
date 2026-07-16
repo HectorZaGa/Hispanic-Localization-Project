@@ -1,0 +1,17 @@
+{
+  "name": "Sendero Ardiente",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Sendero Ardiente",
+      "text": "Sendero Ardiente es un poder rúnico que impregna el arma del portador con la $(#bf4117)$(l)esencia del fuego$(). $(br2)Concede al portador la posibilidad de encenderse a sí mismo mientras también aumenta su velocidad con cada golpe exitoso."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Puede ser útil en batallas contra enemigos que dependen de la velocidad y la movilidad, ya que la velocidad aumentada puede permitir al portador superarlos en maniobrabilidad. $(br2)El efecto de fuego puede ser una desventaja para personajes que carecen de defensas, pero la velocidad aumentada puede compensarlo en ciertas situaciones."
+    }
+  ]
+}

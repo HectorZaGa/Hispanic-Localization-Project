@@ -1,0 +1,17 @@
+{
+  "name": "Corazón de Ascuas",
+  "icon": "simplyswords:hearthflame",
+  "advancement": "simplyswords:hearthflame",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:hearthflame",
+      "text": "El Corazón de Ascuas es un poderoso martillo gigante imbuido con la capacidad de causar devastadores temblores. Cuando se balancea, envía ondas de fuerza que atraen a los enemigos hacia él antes de encenderlos en una explosión ardiente."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La explosión resultante no solo inflige un daño masivo, sino que también lanza a los enemigos lejos del portador, proporcionando una oportunidad para reposicionarse o perseguir otros objetivos. Se dice que el martillo está forjado con las llamas más calientes de la tierra y irradia con un aura de calor. Esta arma es perfecta para guerreros que desean infligir un daño masivo y controlar el campo de batalla."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Susurro Helado",
+  "icon": "simplyswords:icewhisper",
+  "advancement": "simplyswords:icewhisper",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:icewhisper",
+      "text": "El Susurro Helado es una mortal alabarda que irradia un aura helada debilitante alrededor del portador. Esta aura ralentiza los movimientos de los enemigos, haciéndolos más fáciles de golpear y dejándolos vulnerables a ataques de seguimiento."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Además de su presencia heladora, la alabarda también tiene la capacidad de invocar una ventisca, envolviendo el campo de batalla en una tempestad de hielo y nieve. Esta ventisca no solo inflige daño a los enemigos, sino que también les dificulta ver y moverse, proporcionando al portador una ventaja táctica. Se dice que la alabarda está forjada con el hielo más puro y brilla con una luz azul fresca."
+    }
+  ]
+}

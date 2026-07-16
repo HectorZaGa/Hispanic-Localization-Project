@@ -1,0 +1,22 @@
+{
+  "name": "Hoja Exánime Durmiente",
+  "icon": "simplyswords:slumbering_lichblade",
+  "advancement": "simplyswords:slumbering_lichblade",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:slumbering_lichblade",
+      "text": "La Hoja Exánime Durmiente es una espada larga que emana un aura de almas atormentadas que dañan a los enemigos que se acercan demasiado. Se dice que la espada está hecha de los restos de un poderoso Liche, y está imbuida con el poder de las almas que consumió. A veces, se puede escuchar un susurro siniestro emanando de la hoja."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Sin embargo, la espada se encuentra actualmente en un estado dormido y su verdadero poder está bloqueado. A través de un ritual especial o un proceso de elaboración, el portador puede despertar la espada y desbloquear sus mayores habilidades. Una vez despertada, el aura de la espada puede ser ordenada para atacar a un enemigo, succionando su fuerza vital y otorgándola al portador. Es un arma de gran poder y debe ser usada con precaución."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:waking_lichblade",
+      "recipe2": "simplyswords:awakened_lichblade"
+    }
+  ]
+}

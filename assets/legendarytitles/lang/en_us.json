@@ -1,0 +1,37 @@
+{
+  "legendarytitles.reward.obtained": "[Legendary Titles] Reward obtained: %s",
+  "legendarytitles.reward.claimed": "[Legendary Titles] Reward claimed: %s",
+  "legendarytitles.reward.items_dropped": "Your inventory was full. Items dropped on the ground.",
+
+  "legendarytitles.button.edit": "✎",
+  "legendarytitles.button.confirm": "✓",
+  "legendarytitles.checkbox.show_all": "show all",
+
+  "legendarytitles.screen.title": "Legendary Titles",
+  "legendarytitles.ui.arrow": "❯",
+  "legendarytitles.counter.all": "%d/%d",
+  "legendarytitles.counter.filtered": "%d completed",
+  "legendarytitles.button.use": "USE",
+  "legendarytitles.button.own": "My Title",
+  "legendarytitles.button.others": "Others",
+  "legendarytitles.button.show_others": "Visible",
+  "legendarytitles.button.off": "OFF",
+  "legendarytitles.button.on": "ON",
+  "legendarytitles.button.get": "GET",
+  "legendarytitles.button.ok": "DONE",
+  "legendarytitles.button.lock": "🔒",
+  "legendarytitles.button.empty": "🔒",
+  "legendarytitles.attr.generic.max_health": "HP",
+  "legendarytitles.attr.generic.attack_damage": "ATK",
+  "legendarytitles.attr.generic.attack_speed": "SPD",
+  "legendarytitles.attr.generic.movement_speed": "MOV",
+  "legendarytitles.attr.generic.armor": "DEF",
+  "key.legendarytitles.open": "Open Legendary Titles",
+  "key.categories.legendarytitles": "Legendary Titles",
+  "legendarytitles.title.equipped": "Title equipped: %s",
+  "legendarytitles.tooltip.no_description": "No description available",
+  "legendarytitles.tooltip.completed": "✓ Completed",
+  "legendarytitles.tooltip.locked": "✗ Locked"
+
+
+}

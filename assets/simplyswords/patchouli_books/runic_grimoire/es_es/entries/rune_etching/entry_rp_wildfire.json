@@ -1,0 +1,17 @@
+{
+  "name": "Fuego Salvaje",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Fuego Salvaje",
+      "text": "Fuego Salvaje es un poder rúnico que impregna el arma del portador con la $(#d1422c)$(l)esencia del fuego y la combustión$(). $(br2)Concede al portador la posibilidad de convertir en llamas a todos los enemigos cercanos del mismo tipo con cada golpe exitoso."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Fuego Salvaje es un poder rúnico poderoso que puede perturbar el flujo de la batalla y dar al portador una ventaja estratégica. $(br2)Es ideal para personajes centrados en infligir grandes cantidades de daño a lo largo del tiempo, como piromantes, hechiceros oscuros y invocadores."
+    }
+  ]
+}

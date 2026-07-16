@@ -1,0 +1,207 @@
+{
+  "partyhud.button.already_pinned": "[✔]",
+  "partyhud.button.pin": "[+]",
+  "partyhud.status.no_data": "SIN DATOS",
+  "partyhud.status.offline": "DESCONECTADO",
+
+  "partyhud.chat.invite": "%s te invitó a unirte a su grupo.",
+  "partyhud.chat.accept": "[Aceptar]",
+  "partyhud.chat.decline": "[Rechazar]",
+
+
+  "partyhud.label.favorites": "Favoritos",
+
+  "partyhud.button.already_in_party": "Ya estás en un grupo",
+  "partyhud.button.empty": "[Vacío]",
+
+  "partyhud.chat.only_leader_can_invite": "Solo el líder del grupo puede invitar jugadores.",
+  "partyhud.chat.invite_failed_offline": "Ese jugador ya no está conectado.",
+  "partyhud.chat.target_already_in_party": "%s ya está en un grupo.",
+  "partyhud.chat.only_leader_can_kick": "Solo el líder del grupo puede expulsar miembros.",
+  "partyhud.chat.kicked_from_party": "Fuiste expulsado del grupo por %s.",
+  "partyhud.chat.you_kicked_player": "Expulsaste a %s del grupo.",
+
+  "partyhud.chat.not_leader": "¡Solo el líder puede invitar!",
+  "partyhud.chat.delegated_leader": "Delegaste el liderazgo a %s.",
+  "partyhud.chat.invalid_delegate": "Objetivo de delegación inválido.",
+  "partyhud.chat.party_full": "¡Grupo completo! (Máx. 6 miembros)",
+
+  "partyhud.chat.insufficient_perms": "No tienes permiso para teletransportarte.",
+  "partyhud.chat.not_party_member": "Ese jugador no está en tu grupo.",
+  "partyhud.chat.target_offline": "Jugador desconectado.",
+  "partyhud.chat.tp_success": "¡Teletransportado a %s!",
+
+  "key.partyhud.open_screen": "Abrir pantalla Party HUD",
+  "key.categories.partyhud": "Party HUD",
+
+  "config.partyhud.configuration.title": "Configuración de Party HUD",
+
+  "config.partyhud.configuration.partyHudClient": "Cliente Party HUD",
+  "config.partyhud.configuration.partyHudClient.overlayPosition": "Posición del HUD",
+  "config.partyhud.configuration.partyHudClient.overlayPosition.tooltip": "Posición del HUD del grupo en pantalla",
+
+  "config.partyhud.configuration.partyHudClient.overlayStyle": "Estilo del HUD",
+  "config.partyhud.configuration.partyHudClient.overlayStyle.tooltip": "Estilo del HUD: ESTÁNDAR, MODERNO, COMPACTO o RPG",
+
+  "config.partyhud.configuration.partyHudClient.maxTrackedPlayers": "Jugadores máximos",
+  "config.partyhud.configuration.partyHudClient.maxTrackedPlayers.tooltip": "Número máximo de jugadores cercanos que se muestran en el HUD (1-6)",
+
+  "config.partyhud.configuration.partyHudClient.hudAlpha": "Transparencia del HUD",
+  "config.partyhud.configuration.partyHudClient.hudAlpha.tooltip": "Opacidad del HUD (0 = invisible, 255 = completamente opaco)",
+
+  "config.partyhud.configuration.partyHudClient.showNames": "Mostrar nombres",
+  "config.partyhud.configuration.partyHudClient.showNames.tooltip": "Mostrar los nombres de los jugadores en el HUD del grupo",
+
+  "config.partyhud.configuration.partyHudClient.healthTextMode": "Modo de texto de vida",
+  "config.partyhud.configuration.partyHudClient.healthTextMode.tooltip": "Modo de texto de vida: NINGUNO, VALOR, PORCENTAJE",
+
+  "config.partyhud.configuration.partyHudClient.barScale": "Escala de barras",
+  "config.partyhud.configuration.partyHudClient.barScale.tooltip": "Escala global de las barras del HUD (50-100, como porcentaje del tamaño por defecto)",
+
+  "config.partyhud.configuration.partyHudClient.enableTracker": "Activar rastreador",
+  "config.partyhud.configuration.partyHudClient.enableTracker.tooltip": "Activa la superposición 3D del rastreador: muestra íconos de cabeza en la posición de cada jugador",
+
+  "config.partyhud.configuration.development": "Desarrollo",
+  "config.partyhud.configuration.development.devShowSelf": "DEV: Mostrarme",
+  "config.partyhud.configuration.development.devShowSelf.tooltip": "DEV: Mostrar jugador local en el HUD para pruebas de superposición",
+
+  "partyhud.button.edit_mode.on": "✋",
+  "partyhud.button.edit_mode.off": "✊",
+  "partyhud.button.exit_edit_mode": "Salir del modo edición",
+  "partyhud.button.names.on": "👤",
+  "partyhud.button.names.off": "👤",
+  "partyhud.button.offline.on": "🌐",
+  "partyhud.button.offline.off": "❌",
+  "partyhud.button.tracker.on": "👁",
+  "partyhud.button.tracker.off": "👁",
+  "partyhud.button.kick": "X",
+  "partyhud.button.leader": "👑",
+  "partyhud.button.tp": "TP",
+  "partyhud.button.invite": "I",
+  "partyhud.button.invite.full": "LLENO",
+  "partyhud.button.leave_party": "Salir del grupo",
+
+  "partyhud.menu.add_to_hud": "Añadir al HUD",
+  "partyhud.menu.remove_from_hud": "Quitar del HUD",
+  "partyhud.drag.mode.favorites": "Modo: Solo Favoritos (max %s)",
+  "partyhud.drag.mode.all": "Modo: Todos los miembros",
+  "partyhud.drag.hint": "Arrastra para mover",
+
+  "partyhud.screen.title": "Party HUD - Jugadores",
+  "partyhud.label.no_players": "Sin jugadores en línea",
+  "partyhud.label.no_results": "Sin resultados encontrados",
+  "partyhud.label.empty_party": "Grupo vacío",
+  "partyhud.style.default": "Estilo predeterminado",
+  "partyhud.health_text.percentage": "Porcentaje",
+
+  "partyhud.menu.invite": "Invitar al grupo",
+  "partyhud.menu.favorite": "Añadir a favoritos",
+  "partyhud.menu.unfavorite": "Quitar de favoritos",
+  "partyhud.menu.profile": "Ver perfil",
+  "partyhud.menu.teleport": "Teletransportar",
+  "partyhud.menu.make_leader": "Convertir en líder",
+  "partyhud.menu.kick": "Expulsar del grupo",
+  "partyhud.menu.leave": "Salir del grupo",
+
+
+  "partyhud.style.standard.short": "E",
+  "partyhud.style.modern.short": "M",
+  "partyhud.style.compact.short": "C",
+  "partyhud.style.rpg.short": "R",
+
+  "partyhud.edit_mode.title": "MODO EDICIÓN",
+
+  "partyhud.label.online_players": "Jugadores en línea",
+  "partyhud.label.party": "Grupo",
+
+  "partyhud.search.placeholder": "Buscar...",
+  "partyhud.player.offline": "🔌",
+
+  "partyhud.player.offline_tag": " (desconectado)",
+
+  "partyhud.tooltip.edit_mode": "Modo edición (arrastrar HUD)",
+  "partyhud.tooltip.style": "Cambiar estilo del HUD",
+  "partyhud.tooltip.names": "Mostrar/Ocultar nombres",
+  "partyhud.tooltip.offline": "Mostrar miembros desconectados",
+  "partyhud.tooltip.tracker": "Rastreador 3D",
+  "partyhud.tooltip.close": "Cerrar pantalla",
+
+
+  "partyhud.chat.invite_accepted": "¡%s se unió a tu grupo!",
+  "partyhud.chat.invite_declined": "%s rechazó tu invitación",
+  "partyhud.chat.you_declined": "Rechazaste la invitación",
+  "partyhud.chat.joined_party": "Te uniste al grupo de %s",
+  "partyhud.chat.left_party": "Saliste del grupo",
+  "partyhud.chat.no_party": "No estás en ningún grupo",
+  "partyhud.chat.invalid_invite": "Invitación inválida",
+  "partyhud.chat.invite_expired": "Invitación expirada",
+  "partyhud.chat.inviter_offline": "El jugador que invitó está desconectado",
+
+  "partyhud.player.unknown": "Desconocido",
+
+
+  "partyhud.style.standard": "Estándar",
+  "partyhud.style.modern": "Moderno",
+  "partyhud.button.edit_mode": "Editar",
+
+
+  "partyhud.edit_screen.title": "Editar Party HUD",
+
+  "partyhud.button.close": "X",
+  "partyhud.button.tracker": "Rastreador de grupo",
+  "partyhud.button.offline": "Miembros desconectados",
+  "partyhud.button.names": "Mostrar nombres",
+  "partyhud.button.drag_mode": "Modo arrastrar",
+  "partyhud.button.scale": "Escala: %s%%",
+
+  "partyhud.style.rpg": "RPG",
+  "partyhud.style.minimal": "Minimal Style",
+  "partyhud.style.compact": "Compacto",
+
+  "partyhud.health_text.none": "Sin números",
+  "partyhud.health_text.value": "Valor de vida",
+  "partyhud.health_text.percent": "Porcentaje",
+
+  "partyhud.drag_screen.title": "Arrastra para posicionar",
+  "partyhud.drag_screen.hint": "Arrastra el HUD para recolocarlo",
+  "partyhud.drag_screen.exit_hint": "Pulsa ESC para terminar",
+
+
+  "partyhud.configuration.Position": "Posición",
+  "partyhud.configuration.Appearance": "Apariencia",
+  "partyhud.configuration.Development": "Desarrollo",
+  "partyhud.configuration.Party HUD Client": "Cliente de Party HUD",
+  "partyhud.configuration.partyhud": "Servidor",
+
+  "config.partyhud.position.hud_pos_x_percent": "Posición X del HUD",
+  "config.partyhud.position.hud_pos_y_percent": "Posición Y del HUD",
+
+  "config.partyhud.appearance.overlay_style": "Estilo del overlay",
+  "config.partyhud.appearance.max_tracked_players": "Máximo de jugadores mostrados",
+  "config.partyhud.appearance.show_names": "Mostrar nombres",
+  "config.partyhud.appearance.health_text_mode": "Modo de texto de vida",
+  "config.partyhud.appearance.bar_scale": "Escala de barras",
+  "config.partyhud.appearance.enable_tracker": "Activar tracker",
+  "config.partyhud.appearance.show_offline_members": "Mostrar miembros desconectados",
+  "config.partyhud.appearance.hud_max_visible_members": "Máximo visible en HUD",
+  "config.partyhud.appearance.hud_show_only_favorites": "Mostrar solo favoritos",
+
+  "config.partyhud.development.dev_show_self": "Mostrarte a ti mismo (Dev)",
+
+  "config.partyhud.common.tp_only_ops": "Teletransporte solo para OPs",
+
+
+
+  "partyhud.screen.create_party": "Crear grupo",
+  "partyhud.button.create_party": "Crear grupo",
+
+  "partyhud.tooltip.create_party": "Crear un nuevo grupo",
+
+  "partyhud.chat.must_create_party_first": "Debes crear un grupo primero.",
+  "partyhud.chat.cannot_invite_self": "No puedes invitarte a ti mismo.",
+  "partyhud.chat.target_already_in_your_party": "%s ya está en tu grupo.",
+  "partyhud.chat.invite_sent": "Invitación enviada a %s",
+  "partyhud.chat.party_created": "Grupo \"%s\" creado.",
+
+  "partyhud.create_party.name": "Nombrar grupo"
+}

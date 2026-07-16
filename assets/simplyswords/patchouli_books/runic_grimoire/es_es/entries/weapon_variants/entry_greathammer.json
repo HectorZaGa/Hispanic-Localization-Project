@@ -1,0 +1,26 @@
+{
+  "name": "Martillo gigante",
+  "icon": "simplyswords:iron_greathammer",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_greathammer",
+      "text": "El martillo gigante es conocido por su capacidad para infligir daño devastador con cada golpe, debido a su peso y tamaño. Tradicionalmente fue utilizado por la infantería y la caballería pesada en la guerra medieval, y también fue usado por herreros, albañiles y otros trabajadores para golpear con fuerza."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_greathammer",
+      "recipe2": "simplyswords:gold_greathammer"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_greathammer"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_greathammer",
+      "recipe2": "simplyswords:runic_greathammer"
+    }
+  ]
+}

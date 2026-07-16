@@ -1,0 +1,13 @@
+{
+  "name": "Waxweaver",
+  "icon": "simplyswords:waxweaver",
+  "advancement": "simplyswords:waxweaver",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:waxweaver",
+      "text": "Waxweaver es una claymore exquisita que fusiona con elegancia la elegancia con la letalidad, recordando a un candelabro ornamentado. Cuando Waxweaver golpea a los enemigos encendidos, las velas se potencian y su fuerza se transfiere al portador."
+    }
+  ]
+}

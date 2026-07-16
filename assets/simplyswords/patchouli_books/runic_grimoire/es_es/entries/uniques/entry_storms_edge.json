@@ -1,0 +1,17 @@
+{
+  "name": "Filodevastador",
+  "icon": "simplyswords:storms_edge",
+  "advancement": "simplyswords:storms_edge",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:storms_edge",
+      "text": "Se dice que el Filodevastador está forjado a partir de un metal raro que es capaz de canalizar y aprovechar el poder de la electricidad. El puño está hecho de una madera oscura y está envuelto en cuero protector."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "El filo gemelo tiene la capacidad de almacenar electricidad, y con una palabra de comando o fuerza de voluntad, el portador puede liberarla para impulsarse hacia adelante, cerrando rápidamente la distancia con sus enemigos y volviéndose temporalmente invulnerable a todos los ataques."
+    }
+  ]
+}

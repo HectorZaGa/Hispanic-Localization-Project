@@ -1,0 +1,68 @@
+{
+  "itemGroup.wind_spellbooks.creative_tab": "Wind's Spellbooks",
+
+  "effect.wind_spellbooks.tailwind": "Viento a favor",
+
+  "school.wind_spellbooks.wind": "Viento",
+  "attribute.wind_spellbooks.wind_magic_resist": "Resistencia mágica al viento",
+  "attribute.wind_spellbooks.wind_spell_power": "Poder de hechizos de viento",
+
+  "spell.wind_spellbooks.wind_jump": "Salto de viento",
+  "spell.wind_spellbooks.wind_jump.guide": "Impúlsate en el aire",
+
+  "spell.wind_spellbooks.tornado": "Tornado",
+  "spell.wind_spellbooks.tornado.guide": "Alrededor de una ubicación objetivo, crea un tornado que absorberá a las criaturas cercanas e impulsará las al aire",
+
+  "spell.wind_spellbooks.iron_slash": "Corte de hierro",
+  "spell.wind_spellbooks.iron_slash.guide": "Concéntrate antes de hacer una gran embestida que hiere a tus enemigos",
+
+  "spell.wind_spellbooks.aeropic": "Aerópico",
+  "spell.wind_spellbooks.aeropic.guide": "Salta hacia delante en un ataque giratorio y voltaico que dañará a tu primer objetivo y te lanzará al aire. mientras sigas golpeando a tu objetivo, el ataque puede repetirse.",
+
+  "spell.wind_spellbooks.almighty_push": "Empujón supremo",
+  "spell.wind_spellbooks.almighty_push.guide": "Crea un área de viento a tu alrededor que empuja a las criaturas en todas direcciones, causando daño si impactan contra una pared",
+
+  "spell.wind_spellbooks.wind_blade": "Hoja de viento",
+  "spell.wind_spellbooks.wind_blade.guide": "Golpea hacia delante para lanzar una hoja concentrada de viento, atravesando a las criaturas",
+
+  "spell.wind_spellbooks.tailwind": "Viento a favor",
+  "spell.wind_spellbooks.tailwind.guide": "Imbúete con la fuerza del viento, aumentando tu velocidad y tu movilidad en el aire.",
+
+  "item.wind_spellbooks.wind_staff": "Bastón de viento",
+  "item.wind_spellbooks.wind_spell_book": "Libro de tempestades",
+  "item.wind_spellbooks.wind_upgrade_orb": "Orbe de mejora de viento",
+  "item.wind_spellbooks.wind_rune": "Runa de viento",
+
+  "item.wind_spellbooks.aeromancer_helmet": "Sombrero de aeromante",
+  "item.wind_spellbooks.aeromancer_chestplate": "Abrigo de aeromante",
+  "item.wind_spellbooks.aeromancer_leggings": "Pantalones de aeromante",
+  "item.wind_spellbooks.aeromancer_boots": "Botas de aeromante",
+
+  "item.wind_spellbooks.aeromancer_spawn_egg": "Generar de aeromante",
+
+  "entity.wind_spellbooks.aeromancer": "Aeromante",
+
+  "affix.wind_spellbooks:spellbook/attribute/fire_spell_power": "de aeromante",
+
+  "item.wind_spellbooks.moutain_tower_map": "Torre del mago solitario",
+
+  "death.attack.wind_magic": "%1$s fue abatido por la magia de viento de %2$s",
+
+  "death.attack.wind_spellbooks.tornado": "%1$s fue aplastado por el tornado de %2$s",
+  "death.attack.wind_spellbooks.tornado.item": "%1$s fue aplastado por el tornado de %2$s mientras usaba %3$s",
+
+  "death.attack.wind_spellbooks.iron_slash": "%2$s segó la vida de %1$s",
+  "death.attack.wind_spellbooks.iron_slash.item": "%2$s segó la vida de %1$s mientras usaba %3$s",
+
+  "death.attack.wind_spellbooks.aeropic": "%1$s fue golpeado por %2$s",
+  "death.attack.wind_spellbooks.aeropic.item": "%1$s fue golpeado por %2$s mientras usaba %3$s",
+
+  "death.attack.wind_spellbooks.almighty_push": "%1$s fue lanzado por los aires por %2$s",
+  "death.attack.wind_spellbooks.almighty_push.item": "%1$s fue lanzado por los aires por %2$s mientras usaba %3$s",
+
+  "death.attack.wind_spellbooks.wind_blade": "%2$s segó la vida de %1$s",
+  "death.attack.wind_spellbooks.wind_blade.item": "%2$s segó la vida de %1$s usando %3$s",
+
+  "advancements.wind_spellbooks.spell_book_wind.title": "Arrastrado por el viento",
+  "advancements.wind_spellbooks.spell_book_wind.description": "Obtén un libro de tempestades."
+}

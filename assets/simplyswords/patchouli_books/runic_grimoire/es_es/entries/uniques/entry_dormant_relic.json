@@ -1,0 +1,23 @@
+{
+  "name": "Reliquia Durmiente",
+  "icon": "simplyswords:dormant_relic",
+  "advancement": "simplyswords:dormant_relic",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:dormant_relic",
+      "text": "La Reliquia Durmiente es una espada peculiar que guarda un misterioso secreto dentro de su hoja. A simple vista, parece ser una espada ordinaria y poco notable, pero posee una energía latente esperando ser despertada a través del proceso de elaboración."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:righteous_relic",
+      "recipe2": "simplyswords:tainted_relic"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:sunfire",
+      "recipe2": "simplyswords:harbinger"
+    }
+  ]
+}

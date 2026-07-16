@@ -24,6 +24,31 @@
       "type": "patchouli:crafting",
       "recipe": "irons_spellbooks:netherite_spell_book",
       "recipe2": "irons_spellbooks:dragonskin_spell_book"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Libros de Hechizos Nombrados",
+      "text": "Los libros de hechizos nombrados se pueden encontrar en muchos rincones del mundo, a menudo ofreciendo bonificaciones a los aventureros afortunados que buscan en los lugares correctos."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:rotten_spell_book",
+      "text": "Lo que pudo haber sido un libro más poderoso se ha podrido, dejando solo tres páginas. Sin embargo, sigue siendo más poderoso que la mayoría de los libros de hechizos del Overworld. Se pueden saquear de lugares igualmente podridos en todo el Overworld."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:villager_spell_book",
+      "text": "Un libro regular con una pequeña bendición es un canal adecuado para la magia divina. Construir una reputación con los aldeanos, especialmente liberando cautivos del Archevoker, asegurará que uno caiga en tus manos eventualmente."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blaze_spell_book",
+      "text": "Cada Blaze, sin saberlo, viene con uno de estos escondido. El truco es matarlos y esperar que no se convierta en cenizas."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:druidic_spell_book",
+      "text": "Una fuerte energía mágica persiste dentro del Libro de Hechizos pPtrefacto. El libro puede ser bendecido de nuevo si se aplica un remedio adecuado."
     }
   ]
 }

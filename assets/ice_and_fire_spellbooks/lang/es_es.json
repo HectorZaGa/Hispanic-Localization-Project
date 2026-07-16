@@ -1,0 +1,34 @@
+{
+  "item.ice_and_fire_spellbooks.dragonmancers_oathbook": "Libro de juramento del maestro dragón",
+  
+  "item.ice_and_fire_spellbooks.dragon_priest_staff": "Cetro del sacerdote dragón",
+  "item.ice_and_fire_spellbooks.draconic_inferno_staff": "Cetro del sacerdote dragón infernal",
+  "item.ice_and_fire_spellbooks.draconic_cryonic_staff": "Cetro del sacerdote dragón glacial",
+  "item.ice_and_fire_spellbooks.draconic_tempest_staff": "Cetro del sacerdote dragón tormentoso",
+
+  "item.ice_and_fire_spellbooks.fire_dragon_priest_helmet": "Casco del sacerdote dragón de fuego",
+  "item.ice_and_fire_spellbooks.fire_dragon_priest_chestplate": "Túnica del sacerdote dragón de fuego",
+  "item.ice_and_fire_spellbooks.fire_dragon_priest_leggings": "Pantalones del sacerdote dragón de fuego",
+  "item.ice_and_fire_spellbooks.fire_dragon_priest_boots": "Botas del sacerdote dragón de fuego",
+
+  "item.ice_and_fire_spellbooks.ice_dragon_priest_helmet": "Casco del sacerdote dragón de hielo",
+  "item.ice_and_fire_spellbooks.ice_dragon_priest_chestplate": "Túnica del sacerdote dragón de hielo",
+  "item.ice_and_fire_spellbooks.ice_dragon_priest_leggings": "Pantalones del sacerdote dragón de hielo",
+  "item.ice_and_fire_spellbooks.ice_dragon_priest_boots": "Botas del sacerdote dragón de hielo",
+
+  "item.ice_and_fire_spellbooks.lightning_dragon_priest_helmet": "Casco del sacerdote dragón eléctrico",
+  "item.ice_and_fire_spellbooks.lightning_dragon_priest_chestplate": "Túnica del sacerdote dragón eléctrico",
+  "item.ice_and_fire_spellbooks.lightning_dragon_priest_leggings": "Pantalones del sacerdote dragón eléctrico",
+  "item.ice_and_fire_spellbooks.lightning_dragon_priest_boots": "Botas del sacerdote dragón eléctrico",
+
+  "item.ice_and_fire_spellbooks.fire_dragon_priest_mask": "Yolnahjun",
+  "item.ice_and_fire_spellbooks.ice_dragon_priest_mask": "Iizhokziithur",
+  "item.ice_and_fire_spellbooks.lightning_dragon_priest_mask": "Strunlokkren",
+  "item.ice_and_fire_spellbooks.ender_dragon_priest_mask": "Gonvothnioblaan",
+  "item.ice_and_fire_spellbooks.eldritch_dragon_priest_mask": "Alvolokskah",
+
+  "item.ice_and_fire_spellbooks.wooden_mask": "Máscara de madera",
+  "item.wooden_mask.tooltip": "La máscara vibra con una frecuencia extraña, ¿quizás pueda ser sintonizada? [EN DESARROLLO]",
+
+  "tab.ice_and_fire_spellbooks.armor": "Ice and Fire: Spellbooks"
+}

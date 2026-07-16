@@ -1,0 +1,20 @@
+{
+  "name": "Gema Inferrúnica",
+  "icon": "simplyswords:netherfused_gem",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:netherfused_gem",
+      "text": "Las gemas inferrúnicas se pueden obtener combinando un vestigio potenciado y un lingote de netherita dentro de una mesa de herrería. Una vez identificadas, estas gemas revelarán un poder aleatorio contenido dentro de la gema."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Las gemas inferrúnicas se pueden engastar en armas únicas que contengan un [ zócalo inferrúnico ] vacío."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherfused_gem"
+    }
+  ]
+}

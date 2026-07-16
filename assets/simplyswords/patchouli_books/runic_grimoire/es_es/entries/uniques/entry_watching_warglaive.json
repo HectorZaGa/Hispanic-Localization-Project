@@ -1,0 +1,17 @@
+{
+  "name": "Guja Vigilante",
+  "icon": "simplyswords:watching_warglaive",
+  "advancement": "simplyswords:watching_warglaive",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:watching_warglaive",
+      "text": "La Guja Vigilante es un arma poderosa y mortal diseñada para ser empuñada por guerreros hábiles y feroces. Con dos ojos parpadeantes en el centro, las cuchillas están hechas de un metal oscuro, casi negro, que parece absorber la luz a su alrededor."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La Guja Vigilante tiene el poder de absorber la salud de los enemigos cercanos y transferirla a su portador, manteniéndolos en la lucha por más tiempo. La Guja también tiene la posibilidad de ejecutar inmediatamente a sus oponentes, infligiendo un golpe poderoso y crítico que puede terminar la pelea al instante."
+    }
+  ]
+}

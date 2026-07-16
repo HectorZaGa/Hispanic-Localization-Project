@@ -1,0 +1,17 @@
+{
+  "name": "Aguja Sombría",
+  "icon": "simplyswords:shadowsting",
+  "advancement": "simplyswords:shadowsting",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:shadowsting",
+      "text": "Aguja Sombría es un estoque que está imbuido con el poder de las sombras. La habilidad única del estoque le permite tener la oportunidad de infligir daño mágico que escala con la armadura a los enemigos, lo que le permite penetrar incluso la armadura más resistente."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "El estoque también tiene la capacidad de crear una niebla sombría que nubla la visión de sus enemigos, esta habilidad se conoce como Niebla Sombría. El portador puede usar la niebla para crear confusión y desorientación entre sus enemigos, proporcionando una ventaja estratégica en combate."
+    }
+  ]
+}

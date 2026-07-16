@@ -1,0 +1,17 @@
+{
+  "name": "Inmolar",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Inmolar",
+      "text": "Inmolar proporciona una poderosa aura de fuego sagrado. Mientras está activa, esta aura daña periódicamente a los enemigos cercanos, incinerándolos con llamas justicieras. Este daño escala según la salud actual del portador."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Sin embargo, esta habilidad potente tiene un costo: el portador también sufre un daño menor del fuego sagrado."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Arcanamatista",
+  "icon": "simplyswords:arcanethyst",
+  "advancement": "simplyswords:arcanethyst",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:arcanethyst",
+      "text": "El Arcanamatista es una potente alabarda que utiliza el poder de la magia arcana para manipular a sus enemigos, similar a la telequinesis. La alabarda está fabricada con amatista encantada, una piedra preciosa rara y valiosa conocida por su capacidad para canalizar la energía mágica."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La habilidad única de la alabarda para levantar a los enemigos del suelo con una ola de energía arcana los deja vulnerables a ataques de seguimiento. Esta alabarda se considera una herramienta poderosa de destrucción, pero requiere la absorción de poder de la carne de sus enemigos para alcanzar su máximo potencial."
+    }
+  ]
+}
